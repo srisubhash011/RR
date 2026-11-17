@@ -1,0 +1,6635 @@
+{
+  "Aaron Hardie": {
+    "role": "Bowler",
+    "total_balls": 286,
+    "tiers": {
+      "low": 82,
+      "moderate": 130,
+      "high": 65,
+      "extreme": 9
+    },
+    "scenarios": {
+      "Adverse Momentum": 133,
+      "Normal": 82,
+      "Aggressive Opposition": 46,
+      "Defending Chase": 14,
+      "Death Leverage": 11
+    }
+  },
+  "Abdul Samad": {
+    "role": "Batter",
+    "total_balls": 511,
+    "tiers": {
+      "low": 119,
+      "moderate": 198,
+      "high": 145,
+      "extreme": 49
+    },
+    "scenarios": {
+      "Collapse": 209,
+      "Run Chase": 133,
+      "Normal": 119,
+      "Survival": 43,
+      "Momentum Deficit": 7
+    }
+  },
+  "Abhinav Manohar": {
+    "role": "Batter",
+    "total_balls": 243,
+    "tiers": {
+      "low": 139,
+      "moderate": 83,
+      "high": 21,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 139,
+      "Collapse": 63,
+      "Survival": 29,
+      "Run Chase": 9,
+      "Momentum Deficit": 3
+    }
+  },
+  "Abhishek Sharma": {
+    "role": "Bowler",
+    "total_balls": 433,
+    "tiers": {
+      "low": 129,
+      "moderate": 219,
+      "high": 85,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 148,
+      "Normal": 130,
+      "Aggressive Opposition": 121,
+      "Defending Chase": 27,
+      "Death Leverage": 7
+    }
+  },
+  "Abishek Porel": {
+    "role": "Batter",
+    "total_balls": 548,
+    "tiers": {
+      "low": 416,
+      "moderate": 83,
+      "high": 35,
+      "extreme": 14
+    },
+    "scenarios": {
+      "Normal": 416,
+      "Collapse": 73,
+      "Run Chase": 35,
+      "Momentum Deficit": 14,
+      "Survival": 10
+    }
+  },
+  "Afif Hossain": {
+    "role": "Batter",
+    "total_balls": 375,
+    "tiers": {
+      "low": 263,
+      "moderate": 99,
+      "high": 10,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Normal": 265,
+      "Collapse": 74,
+      "Run Chase": 25,
+      "Momentum Deficit": 11
+    }
+  },
+  "Aiden Markram": {
+    "role": "Bowler",
+    "total_balls": 408,
+    "tiers": {
+      "low": 43,
+      "moderate": 204,
+      "high": 158,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Adverse Momentum": 180,
+      "Aggressive Opposition": 137,
+      "Normal": 44,
+      "Defending Chase": 33,
+      "Death Leverage": 14
+    }
+  },
+  "Ajinkya Rahane": {
+    "role": "Batter",
+    "total_balls": 1057,
+    "tiers": {
+      "low": 965,
+      "moderate": 92,
+      "high": 0,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 965,
+      "Run Chase": 45,
+      "Collapse": 36,
+      "Momentum Deficit": 11
+    }
+  },
+  "Ambati Rayudu": {
+    "role": "Batter",
+    "total_balls": 345,
+    "tiers": {
+      "low": 207,
+      "moderate": 130,
+      "high": 8,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 208,
+      "Collapse": 95,
+      "Run Chase": 26,
+      "Momentum Deficit": 16
+    }
+  },
+  "Andre Russell": {
+    "role": "Bowler",
+    "total_balls": 792,
+    "tiers": {
+      "low": 90,
+      "moderate": 413,
+      "high": 217,
+      "extreme": 72
+    },
+    "scenarios": {
+      "Adverse Momentum": 310,
+      "Aggressive Opposition": 259,
+      "Death Leverage": 93,
+      "Normal": 90,
+      "Defending Chase": 40
+    }
+  },
+  "Andrew Balbirnie": {
+    "role": "Batter",
+    "total_balls": 580,
+    "tiers": {
+      "low": 504,
+      "moderate": 75,
+      "high": 1,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 505,
+      "Run Chase": 35,
+      "Collapse": 34,
+      "Momentum Deficit": 6
+    }
+  },
+  "Angelo Mathews": {
+    "role": "Bowler",
+    "total_balls": 114,
+    "tiers": {
+      "low": 26,
+      "moderate": 60,
+      "high": 27,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Adverse Momentum": 38,
+      "Defending Chase": 27,
+      "Normal": 26,
+      "Aggressive Opposition": 23
+    }
+  },
+  "Angkrish Raghuvanshi": {
+    "role": "Batter",
+    "total_balls": 628,
+    "tiers": {
+      "low": 511,
+      "moderate": 87,
+      "high": 18,
+      "extreme": 12
+    },
+    "scenarios": {
+      "Normal": 511,
+      "Collapse": 74,
+      "Run Chase": 27,
+      "Momentum Deficit": 14,
+      "Survival": 2
+    }
+  },
+  "Aniket Verma": {
+    "role": "Batter",
+    "total_balls": 205,
+    "tiers": {
+      "low": 90,
+      "moderate": 67,
+      "high": 48,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Collapse": 93,
+      "Normal": 91,
+      "Run Chase": 15,
+      "Survival": 3,
+      "Momentum Deficit": 3
+    }
+  },
+  "Anuj Rawat": {
+    "role": "Batter",
+    "total_balls": 275,
+    "tiers": {
+      "low": 166,
+      "moderate": 65,
+      "high": 39,
+      "extreme": 5
+    },
+    "scenarios": {
+      "Normal": 167,
+      "Collapse": 54,
+      "Run Chase": 47,
+      "Momentum Deficit": 4,
+      "Survival": 3
+    }
+  },
+  "Ashutosh Sharma": {
+    "role": "Batter",
+    "total_balls": 356,
+    "tiers": {
+      "low": 51,
+      "moderate": 188,
+      "high": 107,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Collapse": 152,
+      "Run Chase": 83,
+      "Survival": 65,
+      "Normal": 51,
+      "Momentum Deficit": 5
+    }
+  },
+  "Asif Ali": {
+    "role": "Batter",
+    "total_balls": 84,
+    "tiers": {
+      "low": 28,
+      "moderate": 28,
+      "high": 26,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Collapse": 42,
+      "Normal": 28,
+      "Run Chase": 13,
+      "Survival": 1
+    }
+  },
+  "Asif Khan": {
+    "role": "Batter",
+    "total_balls": 207,
+    "tiers": {
+      "low": 103,
+      "moderate": 74,
+      "high": 26,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Normal": 104,
+      "Run Chase": 65,
+      "Collapse": 37,
+      "Momentum Deficit": 1
+    }
+  },
+  "Axar Patel": {
+    "role": "Bowler",
+    "total_balls": 2707,
+    "tiers": {
+      "low": 423,
+      "moderate": 1502,
+      "high": 756,
+      "extreme": 26
+    },
+    "scenarios": {
+      "Adverse Momentum": 1384,
+      "Aggressive Opposition": 702,
+      "Normal": 424,
+      "Defending Chase": 125,
+      "Death Leverage": 72
+    }
+  },
+  "Ayush Badoni": {
+    "role": "Batter",
+    "total_balls": 885,
+    "tiers": {
+      "low": 465,
+      "moderate": 315,
+      "high": 103,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Normal": 466,
+      "Collapse": 231,
+      "Run Chase": 135,
+      "Survival": 29,
+      "Momentum Deficit": 24
+    }
+  },
+  "Azmatullah Omarzai": {
+    "role": "Bowler",
+    "total_balls": 1118,
+    "tiers": {
+      "low": 169,
+      "moderate": 660,
+      "high": 263,
+      "extreme": 26
+    },
+    "scenarios": {
+      "Adverse Momentum": 515,
+      "Aggressive Opposition": 259,
+      "Normal": 169,
+      "Defending Chase": 141,
+      "Death Leverage": 34
+    }
+  },
+  "Babar Azam": {
+    "role": "Batter",
+    "total_balls": 1220,
+    "tiers": {
+      "low": 1110,
+      "moderate": 88,
+      "high": 22,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1110,
+      "Collapse": 58,
+      "Run Chase": 38,
+      "Momentum Deficit": 14
+    }
+  },
+  "Basil Hameed": {
+    "role": "Bowler",
+    "total_balls": 140,
+    "tiers": {
+      "low": 39,
+      "moderate": 60,
+      "high": 40,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Adverse Momentum": 50,
+      "Normal": 39,
+      "Aggressive Opposition": 36,
+      "Defending Chase": 9,
+      "Death Leverage": 6
+    }
+  },
+  "Ben Duckett": {
+    "role": "Batter",
+    "total_balls": 347,
+    "tiers": {
+      "low": 285,
+      "moderate": 53,
+      "high": 8,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Normal": 285,
+      "Collapse": 54,
+      "Momentum Deficit": 4,
+      "Run Chase": 4
+    }
+  },
+  "Bhanuka Rajapaksa": {
+    "role": "Batter",
+    "total_balls": 438,
+    "tiers": {
+      "low": 321,
+      "moderate": 109,
+      "high": 5,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Normal": 321,
+      "Collapse": 96,
+      "Run Chase": 10,
+      "Momentum Deficit": 8,
+      "Survival": 3
+    }
+  },
+  "Brandon King": {
+    "role": "Batter",
+    "total_balls": 1164,
+    "tiers": {
+      "low": 1101,
+      "moderate": 58,
+      "high": 5,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1101,
+      "Collapse": 24,
+      "Run Chase": 24,
+      "Momentum Deficit": 15
+    }
+  },
+  "Brian Bennett": {
+    "role": "Bowler",
+    "total_balls": 137,
+    "tiers": {
+      "low": 29,
+      "moderate": 75,
+      "high": 33,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 69,
+      "Aggressive Opposition": 32,
+      "Normal": 29,
+      "Defending Chase": 7
+    }
+  },
+  "Cameron Green": {
+    "role": "Bowler",
+    "total_balls": 799,
+    "tiers": {
+      "low": 119,
+      "moderate": 442,
+      "high": 206,
+      "extreme": 32
+    },
+    "scenarios": {
+      "Adverse Momentum": 410,
+      "Aggressive Opposition": 201,
+      "Normal": 119,
+      "Defending Chase": 52,
+      "Death Leverage": 17
+    }
+  },
+  "Charith Asalanka": {
+    "role": "Bowler",
+    "total_balls": 164,
+    "tiers": {
+      "low": 59,
+      "moderate": 95,
+      "high": 10,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 64,
+      "Normal": 59,
+      "Aggressive Opposition": 36,
+      "Defending Chase": 4,
+      "Death Leverage": 1
+    }
+  },
+  "Clive Madande": {
+    "role": "Batter",
+    "total_balls": 307,
+    "tiers": {
+      "low": 78,
+      "moderate": 138,
+      "high": 62,
+      "extreme": 29
+    },
+    "scenarios": {
+      "Collapse": 140,
+      "Normal": 78,
+      "Survival": 43,
+      "Run Chase": 42,
+      "Momentum Deficit": 4
+    }
+  },
+  "Cooper Connolly": {
+    "role": "Batter",
+    "total_balls": 379,
+    "tiers": {
+      "low": 267,
+      "moderate": 81,
+      "high": 23,
+      "extreme": 8
+    },
+    "scenarios": {
+      "Normal": 267,
+      "Run Chase": 63,
+      "Collapse": 41,
+      "Survival": 4,
+      "Momentum Deficit": 4
+    }
+  },
+  "Curtis Campher": {
+    "role": "Bowler",
+    "total_balls": 414,
+    "tiers": {
+      "low": 69,
+      "moderate": 228,
+      "high": 105,
+      "extreme": 12
+    },
+    "scenarios": {
+      "Adverse Momentum": 198,
+      "Aggressive Opposition": 90,
+      "Normal": 70,
+      "Defending Chase": 42,
+      "Death Leverage": 14
+    }
+  },
+  "Daniel Sams": {
+    "role": "Bowler",
+    "total_balls": 377,
+    "tiers": {
+      "low": 85,
+      "moderate": 195,
+      "high": 96,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Adverse Momentum": 140,
+      "Normal": 85,
+      "Aggressive Opposition": 78,
+      "Defending Chase": 41,
+      "Death Leverage": 33
+    }
+  },
+  "Darwish Rasooli": {
+    "role": "Batter",
+    "total_balls": 316,
+    "tiers": {
+      "low": 225,
+      "moderate": 78,
+      "high": 12,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Normal": 225,
+      "Collapse": 74,
+      "Momentum Deficit": 7,
+      "Run Chase": 7,
+      "Survival": 3
+    }
+  },
+  "Daryl Mitchell": {
+    "role": "Batter",
+    "total_balls": 1181,
+    "tiers": {
+      "low": 884,
+      "moderate": 205,
+      "high": 80,
+      "extreme": 12
+    },
+    "scenarios": {
+      "Normal": 884,
+      "Collapse": 189,
+      "Run Chase": 86,
+      "Momentum Deficit": 22
+    }
+  },
+  "Dasun Shanaka": {
+    "role": "Bowler",
+    "total_balls": 557,
+    "tiers": {
+      "low": 112,
+      "moderate": 326,
+      "high": 115,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Adverse Momentum": 296,
+      "Normal": 112,
+      "Aggressive Opposition": 89,
+      "Death Leverage": 40,
+      "Defending Chase": 20
+    }
+  },
+  "David Miller": {
+    "role": "Batter",
+    "total_balls": 1338,
+    "tiers": {
+      "low": 709,
+      "moderate": 523,
+      "high": 77,
+      "extreme": 29
+    },
+    "scenarios": {
+      "Normal": 713,
+      "Run Chase": 321,
+      "Collapse": 274,
+      "Momentum Deficit": 19,
+      "Survival": 11
+    }
+  },
+  "David Warner": {
+    "role": "Batter",
+    "total_balls": 1161,
+    "tiers": {
+      "low": 967,
+      "moderate": 139,
+      "high": 48,
+      "extreme": 7
+    },
+    "scenarios": {
+      "Normal": 967,
+      "Run Chase": 119,
+      "Collapse": 46,
+      "Momentum Deficit": 29
+    }
+  },
+  "David Willey": {
+    "role": "Bowler",
+    "total_balls": 396,
+    "tiers": {
+      "low": 74,
+      "moderate": 232,
+      "high": 71,
+      "extreme": 19
+    },
+    "scenarios": {
+      "Adverse Momentum": 168,
+      "Aggressive Opposition": 102,
+      "Normal": 74,
+      "Defending Chase": 28,
+      "Death Leverage": 24
+    }
+  },
+  "Dawid Malan": {
+    "role": "Batter",
+    "total_balls": 479,
+    "tiers": {
+      "low": 410,
+      "moderate": 67,
+      "high": 2,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 410,
+      "Collapse": 40,
+      "Momentum Deficit": 15,
+      "Run Chase": 14
+    }
+  },
+  "Deepak Hooda": {
+    "role": "Bowler",
+    "total_balls": 133,
+    "tiers": {
+      "low": 70,
+      "moderate": 62,
+      "high": 1,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 70,
+      "Adverse Momentum": 38,
+      "Aggressive Opposition": 18,
+      "Defending Chase": 4,
+      "Death Leverage": 3
+    }
+  },
+  "Devdutt Padikkal": {
+    "role": "Batter",
+    "total_balls": 1039,
+    "tiers": {
+      "low": 926,
+      "moderate": 104,
+      "high": 9,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 928,
+      "Collapse": 55,
+      "Run Chase": 35,
+      "Momentum Deficit": 20,
+      "Survival": 1
+    }
+  },
+  "Devon Conway": {
+    "role": "Batter",
+    "total_balls": 1529,
+    "tiers": {
+      "low": 1449,
+      "moderate": 76,
+      "high": 4,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1449,
+      "Collapse": 40,
+      "Momentum Deficit": 22,
+      "Run Chase": 18
+    }
+  },
+  "Dewald Brevis": {
+    "role": "Batter",
+    "total_balls": 658,
+    "tiers": {
+      "low": 511,
+      "moderate": 126,
+      "high": 21,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 511,
+      "Collapse": 108,
+      "Momentum Deficit": 25,
+      "Run Chase": 12,
+      "Survival": 2
+    }
+  },
+  "Dhananjaya de Silva": {
+    "role": "Batter",
+    "total_balls": 211,
+    "tiers": {
+      "low": 150,
+      "moderate": 56,
+      "high": 5,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 150,
+      "Collapse": 42,
+      "Momentum Deficit": 10,
+      "Run Chase": 9
+    }
+  },
+  "Dhruv Jurel": {
+    "role": "Batter",
+    "total_balls": 824,
+    "tiers": {
+      "low": 489,
+      "moderate": 237,
+      "high": 92,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Normal": 489,
+      "Collapse": 164,
+      "Run Chase": 157,
+      "Momentum Deficit": 11,
+      "Survival": 3
+    }
+  },
+  "Dinesh Karthik": {
+    "role": "Batter",
+    "total_balls": 683,
+    "tiers": {
+      "low": 252,
+      "moderate": 252,
+      "high": 158,
+      "extreme": 21
+    },
+    "scenarios": {
+      "Collapse": 276,
+      "Normal": 252,
+      "Run Chase": 117,
+      "Survival": 34,
+      "Momentum Deficit": 4
+    }
+  },
+  "Dion Myers": {
+    "role": "Batter",
+    "total_balls": 349,
+    "tiers": {
+      "low": 250,
+      "moderate": 81,
+      "high": 18,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 250,
+      "Collapse": 46,
+      "Run Chase": 41,
+      "Momentum Deficit": 12
+    }
+  },
+  "Donovan Ferreira": {
+    "role": "Batter",
+    "total_balls": 354,
+    "tiers": {
+      "low": 115,
+      "moderate": 185,
+      "high": 48,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Collapse": 157,
+      "Normal": 115,
+      "Run Chase": 62,
+      "Survival": 12,
+      "Momentum Deficit": 8
+    }
+  },
+  "Dwaine Pretorius": {
+    "role": "Bowler",
+    "total_balls": 336,
+    "tiers": {
+      "low": 48,
+      "moderate": 182,
+      "high": 89,
+      "extreme": 17
+    },
+    "scenarios": {
+      "Adverse Momentum": 171,
+      "Aggressive Opposition": 62,
+      "Death Leverage": 54,
+      "Normal": 49
+    }
+  },
+  "Faf du Plessis": {
+    "role": "Batter",
+    "total_balls": 1306,
+    "tiers": {
+      "low": 1228,
+      "moderate": 75,
+      "high": 3,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1228,
+      "Collapse": 58,
+      "Momentum Deficit": 11,
+      "Run Chase": 9
+    }
+  },
+  "Fakhar Zaman": {
+    "role": "Batter",
+    "total_balls": 889,
+    "tiers": {
+      "low": 711,
+      "moderate": 159,
+      "high": 19,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 711,
+      "Collapse": 131,
+      "Momentum Deficit": 24,
+      "Run Chase": 23
+    }
+  },
+  "Gareth Delany": {
+    "role": "Bowler",
+    "total_balls": 566,
+    "tiers": {
+      "low": 112,
+      "moderate": 319,
+      "high": 125,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Adverse Momentum": 257,
+      "Aggressive Opposition": 136,
+      "Normal": 114,
+      "Defending Chase": 36,
+      "Death Leverage": 23
+    }
+  },
+  "George Dockrell": {
+    "role": "Bowler",
+    "total_balls": 190,
+    "tiers": {
+      "low": 52,
+      "moderate": 99,
+      "high": 39,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 66,
+      "Normal": 54,
+      "Aggressive Opposition": 37,
+      "Defending Chase": 27,
+      "Death Leverage": 6
+    }
+  },
+  "Glenn Maxwell": {
+    "role": "Bowler",
+    "total_balls": 657,
+    "tiers": {
+      "low": 91,
+      "moderate": 354,
+      "high": 202,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Adverse Momentum": 311,
+      "Aggressive Opposition": 209,
+      "Normal": 91,
+      "Defending Chase": 39,
+      "Death Leverage": 7
+    }
+  },
+  "Glenn Phillips": {
+    "role": "Bowler",
+    "total_balls": 115,
+    "tiers": {
+      "low": 24,
+      "moderate": 73,
+      "high": 18,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Aggressive Opposition": 37,
+      "Adverse Momentum": 33,
+      "Normal": 24,
+      "Defending Chase": 12,
+      "Death Leverage": 9
+    }
+  },
+  "Gulbadin Naib": {
+    "role": "Batter",
+    "total_balls": 213,
+    "tiers": {
+      "low": 131,
+      "moderate": 50,
+      "high": 21,
+      "extreme": 11
+    },
+    "scenarios": {
+      "Normal": 132,
+      "Collapse": 55,
+      "Run Chase": 16,
+      "Momentum Deficit": 5,
+      "Survival": 5
+    }
+  },
+  "Hardik Pandya": {
+    "role": "Bowler",
+    "total_balls": 1930,
+    "tiers": {
+      "low": 349,
+      "moderate": 1061,
+      "high": 481,
+      "extreme": 39
+    },
+    "scenarios": {
+      "Adverse Momentum": 818,
+      "Aggressive Opposition": 508,
+      "Normal": 350,
+      "Defending Chase": 161,
+      "Death Leverage": 93
+    }
+  },
+  "Harry Brook": {
+    "role": "Batter",
+    "total_balls": 938,
+    "tiers": {
+      "low": 763,
+      "moderate": 161,
+      "high": 14,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 763,
+      "Collapse": 113,
+      "Run Chase": 48,
+      "Momentum Deficit": 14
+    }
+  },
+  "Harry Tector": {
+    "role": "Bowler",
+    "total_balls": 248,
+    "tiers": {
+      "low": 58,
+      "moderate": 164,
+      "high": 26,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 114,
+      "Normal": 58,
+      "Aggressive Opposition": 47,
+      "Defending Chase": 29
+    }
+  },
+  "Hasan Nawaz": {
+    "role": "Batter",
+    "total_balls": 341,
+    "tiers": {
+      "low": 248,
+      "moderate": 90,
+      "high": 3,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 248,
+      "Collapse": 76,
+      "Momentum Deficit": 11,
+      "Run Chase": 6
+    }
+  },
+  "Heinrich Klaasen": {
+    "role": "Batter",
+    "total_balls": 1480,
+    "tiers": {
+      "low": 976,
+      "moderate": 396,
+      "high": 108,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 976,
+      "Collapse": 285,
+      "Run Chase": 182,
+      "Momentum Deficit": 33,
+      "Survival": 4
+    }
+  },
+  "Ibrahim Zadran": {
+    "role": "Batter",
+    "total_balls": 1164,
+    "tiers": {
+      "low": 934,
+      "moderate": 147,
+      "high": 67,
+      "extreme": 16
+    },
+    "scenarios": {
+      "Normal": 935,
+      "Collapse": 122,
+      "Run Chase": 70,
+      "Momentum Deficit": 35,
+      "Survival": 2
+    }
+  },
+  "Iftikhar Ahmed": {
+    "role": "Bowler",
+    "total_balls": 189,
+    "tiers": {
+      "low": 48,
+      "moderate": 108,
+      "high": 33,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 77,
+      "Normal": 48,
+      "Aggressive Opposition": 45,
+      "Defending Chase": 12,
+      "Death Leverage": 7
+    }
+  },
+  "Imad Wasim": {
+    "role": "Bowler",
+    "total_balls": 254,
+    "tiers": {
+      "low": 52,
+      "moderate": 162,
+      "high": 38,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Adverse Momentum": 112,
+      "Aggressive Opposition": 61,
+      "Normal": 53,
+      "Defending Chase": 25,
+      "Death Leverage": 3
+    }
+  },
+  "Ishan Kishan": {
+    "role": "Batter",
+    "total_balls": 2506,
+    "tiers": {
+      "low": 2288,
+      "moderate": 206,
+      "high": 12,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 2288,
+      "Collapse": 142,
+      "Run Chase": 40,
+      "Momentum Deficit": 36
+    }
+  },
+  "Jacob Bethell": {
+    "role": "Bowler",
+    "total_balls": 90,
+    "tiers": {
+      "low": 25,
+      "moderate": 47,
+      "high": 18,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 35,
+      "Normal": 25,
+      "Aggressive Opposition": 24,
+      "Defending Chase": 4,
+      "Death Leverage": 2
+    }
+  },
+  "Jaker Ali Anik": {
+    "role": "Batter",
+    "total_balls": 532,
+    "tiers": {
+      "low": 221,
+      "moderate": 206,
+      "high": 95,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Normal": 223,
+      "Collapse": 204,
+      "Run Chase": 77,
+      "Momentum Deficit": 15,
+      "Survival": 13
+    }
+  },
+  "Janith Liyanage": {
+    "role": "Batter",
+    "total_balls": 140,
+    "tiers": {
+      "low": 63,
+      "moderate": 53,
+      "high": 24,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 63,
+      "Collapse": 62,
+      "Survival": 8,
+      "Momentum Deficit": 5,
+      "Run Chase": 2
+    }
+  },
+  "Jason Holder": {
+    "role": "Bowler",
+    "total_balls": 2032,
+    "tiers": {
+      "low": 258,
+      "moderate": 1038,
+      "high": 613,
+      "extreme": 123
+    },
+    "scenarios": {
+      "Adverse Momentum": 903,
+      "Aggressive Opposition": 570,
+      "Normal": 262,
+      "Death Leverage": 195,
+      "Defending Chase": 102
+    }
+  },
+  "Jason Roy": {
+    "role": "Batter",
+    "total_balls": 401,
+    "tiers": {
+      "low": 319,
+      "moderate": 73,
+      "high": 9,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 319,
+      "Collapse": 39,
+      "Run Chase": 33,
+      "Momentum Deficit": 8,
+      "Survival": 2
+    }
+  },
+  "Jimmy Neesham": {
+    "role": "Bowler",
+    "total_balls": 546,
+    "tiers": {
+      "low": 67,
+      "moderate": 307,
+      "high": 147,
+      "extreme": 25
+    },
+    "scenarios": {
+      "Adverse Momentum": 331,
+      "Aggressive Opposition": 115,
+      "Normal": 67,
+      "Death Leverage": 17,
+      "Defending Chase": 16
+    }
+  },
+  "Jitesh Sharma": {
+    "role": "Batter",
+    "total_balls": 859,
+    "tiers": {
+      "low": 456,
+      "moderate": 331,
+      "high": 66,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Normal": 456,
+      "Collapse": 251,
+      "Run Chase": 73,
+      "Survival": 58,
+      "Momentum Deficit": 21
+    }
+  },
+  "Johnathan Campbell": {
+    "role": "Batter",
+    "total_balls": 101,
+    "tiers": {
+      "low": 38,
+      "moderate": 41,
+      "high": 22,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 38,
+      "Collapse": 32,
+      "Run Chase": 25,
+      "Survival": 4,
+      "Momentum Deficit": 2
+    }
+  },
+  "Jonny Bairstow": {
+    "role": "Batter",
+    "total_balls": 692,
+    "tiers": {
+      "low": 594,
+      "moderate": 77,
+      "high": 14,
+      "extreme": 7
+    },
+    "scenarios": {
+      "Normal": 594,
+      "Collapse": 53,
+      "Run Chase": 33,
+      "Momentum Deficit": 12
+    }
+  },
+  "Jos Buttler": {
+    "role": "Batter",
+    "total_balls": 2920,
+    "tiers": {
+      "low": 2664,
+      "moderate": 221,
+      "high": 27,
+      "extreme": 8
+    },
+    "scenarios": {
+      "Normal": 2664,
+      "Collapse": 129,
+      "Run Chase": 83,
+      "Momentum Deficit": 43,
+      "Survival": 1
+    }
+  },
+  "Josh Inglis": {
+    "role": "Batter",
+    "total_balls": 940,
+    "tiers": {
+      "low": 832,
+      "moderate": 103,
+      "high": 5,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 832,
+      "Collapse": 85,
+      "Momentum Deficit": 17,
+      "Run Chase": 6
+    }
+  },
+  "Kamindu Mendis": {
+    "role": "Bowler",
+    "total_balls": 154,
+    "tiers": {
+      "low": 28,
+      "moderate": 93,
+      "high": 33,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 75,
+      "Aggressive Opposition": 40,
+      "Normal": 29,
+      "Defending Chase": 6,
+      "Death Leverage": 4
+    }
+  },
+  "Kane Williamson": {
+    "role": "Batter",
+    "total_balls": 546,
+    "tiers": {
+      "low": 473,
+      "moderate": 54,
+      "high": 16,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Normal": 473,
+      "Run Chase": 36,
+      "Collapse": 24,
+      "Momentum Deficit": 13
+    }
+  },
+  "Karim Janat": {
+    "role": "Bowler",
+    "total_balls": 158,
+    "tiers": {
+      "low": 39,
+      "moderate": 68,
+      "high": 35,
+      "extreme": 16
+    },
+    "scenarios": {
+      "Adverse Momentum": 66,
+      "Aggressive Opposition": 47,
+      "Normal": 39,
+      "Death Leverage": 6
+    }
+  },
+  "Kartik Sharma": {
+    "role": "Batter",
+    "total_balls": 220,
+    "tiers": {
+      "low": 164,
+      "moderate": 48,
+      "high": 7,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Normal": 164,
+      "Collapse": 44,
+      "Run Chase": 8,
+      "Momentum Deficit": 3,
+      "Survival": 1
+    }
+  },
+  "Khushdil Shah": {
+    "role": "Batter",
+    "total_balls": 219,
+    "tiers": {
+      "low": 51,
+      "moderate": 121,
+      "high": 45,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Collapse": 87,
+      "Run Chase": 57,
+      "Normal": 51,
+      "Survival": 24
+    }
+  },
+  "Kieron Pollard": {
+    "role": "Batter",
+    "total_balls": 230,
+    "tiers": {
+      "low": 61,
+      "moderate": 106,
+      "high": 45,
+      "extreme": 18
+    },
+    "scenarios": {
+      "Collapse": 88,
+      "Run Chase": 77,
+      "Normal": 61,
+      "Momentum Deficit": 3,
+      "Survival": 1
+    }
+  },
+  "Krunal Pandya": {
+    "role": "Bowler",
+    "total_balls": 1286,
+    "tiers": {
+      "low": 181,
+      "moderate": 716,
+      "high": 378,
+      "extreme": 11
+    },
+    "scenarios": {
+      "Adverse Momentum": 621,
+      "Aggressive Opposition": 380,
+      "Normal": 182,
+      "Defending Chase": 68,
+      "Death Leverage": 35
+    }
+  },
+  "Kusal Mendis": {
+    "role": "Batter",
+    "total_balls": 1376,
+    "tiers": {
+      "low": 1273,
+      "moderate": 103,
+      "high": 0,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1273,
+      "Collapse": 68,
+      "Momentum Deficit": 23,
+      "Run Chase": 12
+    }
+  },
+  "Lalit Yadav": {
+    "role": "Batter",
+    "total_balls": 226,
+    "tiers": {
+      "low": 102,
+      "moderate": 66,
+      "high": 47,
+      "extreme": 11
+    },
+    "scenarios": {
+      "Normal": 102,
+      "Run Chase": 76,
+      "Collapse": 42,
+      "Survival": 6
+    }
+  },
+  "Liam Livingstone": {
+    "role": "Bowler",
+    "total_balls": 619,
+    "tiers": {
+      "low": 99,
+      "moderate": 397,
+      "high": 117,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Adverse Momentum": 308,
+      "Aggressive Opposition": 144,
+      "Normal": 99,
+      "Defending Chase": 48,
+      "Death Leverage": 20
+    }
+  },
+  "Liton Das": {
+    "role": "Batter",
+    "total_balls": 1175,
+    "tiers": {
+      "low": 1075,
+      "moderate": 91,
+      "high": 9,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1075,
+      "Collapse": 55,
+      "Run Chase": 30,
+      "Momentum Deficit": 15
+    }
+  },
+  "Lokesh Rahul": {
+    "role": "Batter",
+    "total_balls": 2083,
+    "tiers": {
+      "low": 1855,
+      "moderate": 214,
+      "high": 11,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Normal": 1856,
+      "Collapse": 127,
+      "Run Chase": 64,
+      "Momentum Deficit": 36
+    }
+  },
+  "Lorcan Tucker": {
+    "role": "Batter",
+    "total_balls": 682,
+    "tiers": {
+      "low": 558,
+      "moderate": 116,
+      "high": 8,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 559,
+      "Collapse": 75,
+      "Run Chase": 33,
+      "Momentum Deficit": 15
+    }
+  },
+  "M Shahrukh Khan": {
+    "role": "Batter",
+    "total_balls": 433,
+    "tiers": {
+      "low": 188,
+      "moderate": 153,
+      "high": 77,
+      "extreme": 15
+    },
+    "scenarios": {
+      "Normal": 188,
+      "Collapse": 174,
+      "Run Chase": 64,
+      "Momentum Deficit": 5,
+      "Survival": 2
+    }
+  },
+  "Mahedi Hasan": {
+    "role": "Bowler",
+    "total_balls": 935,
+    "tiers": {
+      "low": 277,
+      "moderate": 487,
+      "high": 158,
+      "extreme": 13
+    },
+    "scenarios": {
+      "Adverse Momentum": 322,
+      "Normal": 278,
+      "Aggressive Opposition": 223,
+      "Defending Chase": 92,
+      "Death Leverage": 20
+    }
+  },
+  "Mahendra Singh Dhoni": {
+    "role": "Batter",
+    "total_balls": 497,
+    "tiers": {
+      "low": 82,
+      "moderate": 194,
+      "high": 168,
+      "extreme": 53
+    },
+    "scenarios": {
+      "Collapse": 191,
+      "Run Chase": 171,
+      "Normal": 82,
+      "Survival": 48,
+      "Momentum Deficit": 5
+    }
+  },
+  "Mahipal Lomror": {
+    "role": "Batter",
+    "total_balls": 235,
+    "tiers": {
+      "low": 116,
+      "moderate": 73,
+      "high": 33,
+      "extreme": 13
+    },
+    "scenarios": {
+      "Normal": 116,
+      "Collapse": 93,
+      "Run Chase": 23,
+      "Momentum Deficit": 3
+    }
+  },
+  "Manish Pandey": {
+    "role": "Batter",
+    "total_balls": 384,
+    "tiers": {
+      "low": 249,
+      "moderate": 84,
+      "high": 46,
+      "extreme": 5
+    },
+    "scenarios": {
+      "Normal": 249,
+      "Collapse": 66,
+      "Run Chase": 46,
+      "Momentum Deficit": 12,
+      "Survival": 11
+    }
+  },
+  "Marco Jansen": {
+    "role": "Bowler",
+    "total_balls": 1399,
+    "tiers": {
+      "low": 192,
+      "moderate": 673,
+      "high": 433,
+      "extreme": 101
+    },
+    "scenarios": {
+      "Adverse Momentum": 636,
+      "Aggressive Opposition": 486,
+      "Normal": 193,
+      "Death Leverage": 48,
+      "Defending Chase": 36
+    }
+  },
+  "Marcus Stoinis": {
+    "role": "Bowler",
+    "total_balls": 794,
+    "tiers": {
+      "low": 122,
+      "moderate": 453,
+      "high": 191,
+      "extreme": 28
+    },
+    "scenarios": {
+      "Adverse Momentum": 399,
+      "Aggressive Opposition": 191,
+      "Normal": 123,
+      "Defending Chase": 42,
+      "Death Leverage": 39
+    }
+  },
+  "Mark Adair": {
+    "role": "Bowler",
+    "total_balls": 906,
+    "tiers": {
+      "low": 145,
+      "moderate": 483,
+      "high": 222,
+      "extreme": 56
+    },
+    "scenarios": {
+      "Adverse Momentum": 371,
+      "Aggressive Opposition": 185,
+      "Normal": 145,
+      "Defending Chase": 122,
+      "Death Leverage": 83
+    }
+  },
+  "Mark Chapman": {
+    "role": "Batter",
+    "total_balls": 906,
+    "tiers": {
+      "low": 627,
+      "moderate": 233,
+      "high": 45,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Normal": 628,
+      "Collapse": 157,
+      "Run Chase": 103,
+      "Momentum Deficit": 18
+    }
+  },
+  "Matthew Short": {
+    "role": "Batter",
+    "total_balls": 437,
+    "tiers": {
+      "low": 340,
+      "moderate": 75,
+      "high": 19,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Normal": 340,
+      "Collapse": 47,
+      "Run Chase": 36,
+      "Momentum Deficit": 9,
+      "Survival": 5
+    }
+  },
+  "Matthew Wade": {
+    "role": "Batter",
+    "total_balls": 446,
+    "tiers": {
+      "low": 219,
+      "moderate": 122,
+      "high": 78,
+      "extreme": 27
+    },
+    "scenarios": {
+      "Normal": 220,
+      "Collapse": 124,
+      "Run Chase": 89,
+      "Survival": 9,
+      "Momentum Deficit": 4
+    }
+  },
+  "Mehidy Hasan Miraz": {
+    "role": "Bowler",
+    "total_balls": 236,
+    "tiers": {
+      "low": 56,
+      "moderate": 141,
+      "high": 39,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 95,
+      "Aggressive Opposition": 63,
+      "Normal": 57,
+      "Defending Chase": 15,
+      "Death Leverage": 6
+    }
+  },
+  "Michael Bracewell": {
+    "role": "Bowler",
+    "total_balls": 701,
+    "tiers": {
+      "low": 165,
+      "moderate": 370,
+      "high": 164,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Adverse Momentum": 310,
+      "Normal": 170,
+      "Aggressive Opposition": 160,
+      "Defending Chase": 55,
+      "Death Leverage": 6
+    }
+  },
+  "Mitchell Marsh": {
+    "role": "Bowler",
+    "total_balls": 320,
+    "tiers": {
+      "low": 37,
+      "moderate": 151,
+      "high": 117,
+      "extreme": 15
+    },
+    "scenarios": {
+      "Adverse Momentum": 194,
+      "Aggressive Opposition": 66,
+      "Normal": 37,
+      "Defending Chase": 18,
+      "Death Leverage": 5
+    }
+  },
+  "Mitchell Santner": {
+    "role": "Bowler",
+    "total_balls": 1793,
+    "tiers": {
+      "low": 378,
+      "moderate": 996,
+      "high": 402,
+      "extreme": 17
+    },
+    "scenarios": {
+      "Adverse Momentum": 828,
+      "Aggressive Opposition": 458,
+      "Normal": 381,
+      "Defending Chase": 80,
+      "Death Leverage": 46
+    }
+  },
+  "Moeen Ali": {
+    "role": "Bowler",
+    "total_balls": 821,
+    "tiers": {
+      "low": 205,
+      "moderate": 475,
+      "high": 141,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 363,
+      "Normal": 207,
+      "Aggressive Opposition": 163,
+      "Defending Chase": 67,
+      "Death Leverage": 21
+    }
+  },
+  "Mohammad Haris": {
+    "role": "Batter",
+    "total_balls": 349,
+    "tiers": {
+      "low": 266,
+      "moderate": 62,
+      "high": 19,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Normal": 266,
+      "Collapse": 73,
+      "Survival": 7,
+      "Momentum Deficit": 3
+    }
+  },
+  "Mohammad Mahmudullah": {
+    "role": "Batter",
+    "total_balls": 275,
+    "tiers": {
+      "low": 142,
+      "moderate": 89,
+      "high": 38,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Normal": 142,
+      "Run Chase": 64,
+      "Collapse": 62,
+      "Momentum Deficit": 7
+    }
+  },
+  "Mohammad Nabi": {
+    "role": "Bowler",
+    "total_balls": 693,
+    "tiers": {
+      "low": 205,
+      "moderate": 357,
+      "high": 131,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 237,
+      "Normal": 205,
+      "Aggressive Opposition": 166,
+      "Defending Chase": 77,
+      "Death Leverage": 8
+    }
+  },
+  "Mohammad Nawaz": {
+    "role": "Bowler",
+    "total_balls": 1017,
+    "tiers": {
+      "low": 270,
+      "moderate": 631,
+      "high": 107,
+      "extreme": 9
+    },
+    "scenarios": {
+      "Adverse Momentum": 382,
+      "Normal": 271,
+      "Aggressive Opposition": 233,
+      "Defending Chase": 125,
+      "Death Leverage": 6
+    }
+  },
+  "Mohammad Rizwan": {
+    "role": "Batter",
+    "total_balls": 1190,
+    "tiers": {
+      "low": 1064,
+      "moderate": 98,
+      "high": 18,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Normal": 1064,
+      "Collapse": 72,
+      "Run Chase": 36,
+      "Momentum Deficit": 18
+    }
+  },
+  "Mohammad Saif Hassan": {
+    "role": "Bowler",
+    "total_balls": 100,
+    "tiers": {
+      "low": 28,
+      "moderate": 56,
+      "high": 16,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 48,
+      "Normal": 28,
+      "Aggressive Opposition": 14,
+      "Death Leverage": 8,
+      "Defending Chase": 2
+    }
+  },
+  "Mosaddek Hossain": {
+    "role": "Bowler",
+    "total_balls": 163,
+    "tiers": {
+      "low": 43,
+      "moderate": 95,
+      "high": 25,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 72,
+      "Normal": 44,
+      "Aggressive Opposition": 42,
+      "Defending Chase": 5
+    }
+  },
+  "Muhammad Irfan": {
+    "role": "Batter",
+    "total_balls": 145,
+    "tiers": {
+      "low": 79,
+      "moderate": 45,
+      "high": 8,
+      "extreme": 13
+    },
+    "scenarios": {
+      "Normal": 79,
+      "Collapse": 43,
+      "Run Chase": 14,
+      "Momentum Deficit": 9
+    }
+  },
+  "Najibullah Zadran": {
+    "role": "Batter",
+    "total_balls": 327,
+    "tiers": {
+      "low": 192,
+      "moderate": 122,
+      "high": 12,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Normal": 193,
+      "Collapse": 80,
+      "Run Chase": 30,
+      "Momentum Deficit": 16,
+      "Survival": 8
+    }
+  },
+  "Naman Dhir": {
+    "role": "Bowler",
+    "total_balls": 128,
+    "tiers": {
+      "low": 26,
+      "moderate": 72,
+      "high": 26,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Adverse Momentum": 64,
+      "Aggressive Opposition": 30,
+      "Normal": 26,
+      "Defending Chase": 6,
+      "Death Leverage": 2
+    }
+  },
+  "Namboori Tilak Varma": {
+    "role": "Batter",
+    "total_balls": 2529,
+    "tiers": {
+      "low": 1739,
+      "moderate": 645,
+      "high": 136,
+      "extreme": 9
+    },
+    "scenarios": {
+      "Normal": 1740,
+      "Collapse": 438,
+      "Run Chase": 290,
+      "Momentum Deficit": 39,
+      "Survival": 22
+    }
+  },
+  "Nazmul Hossain Shanto": {
+    "role": "Batter",
+    "total_balls": 531,
+    "tiers": {
+      "low": 443,
+      "moderate": 81,
+      "high": 7,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 444,
+      "Collapse": 45,
+      "Run Chase": 29,
+      "Momentum Deficit": 13
+    }
+  },
+  "Nehal Wadhera": {
+    "role": "Batter",
+    "total_balls": 583,
+    "tiers": {
+      "low": 351,
+      "moderate": 186,
+      "high": 39,
+      "extreme": 7
+    },
+    "scenarios": {
+      "Normal": 351,
+      "Collapse": 130,
+      "Run Chase": 88,
+      "Momentum Deficit": 14
+    }
+  },
+  "Nicholas Pooran": {
+    "role": "Batter",
+    "total_balls": 2091,
+    "tiers": {
+      "low": 1491,
+      "moderate": 517,
+      "high": 65,
+      "extreme": 18
+    },
+    "scenarios": {
+      "Normal": 1491,
+      "Collapse": 295,
+      "Run Chase": 230,
+      "Momentum Deficit": 70,
+      "Survival": 5
+    }
+  },
+  "Nitish Rana": {
+    "role": "Batter",
+    "total_balls": 896,
+    "tiers": {
+      "low": 671,
+      "moderate": 201,
+      "high": 24,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 672,
+      "Collapse": 106,
+      "Run Chase": 78,
+      "Momentum Deficit": 34,
+      "Survival": 6
+    }
+  },
+  "Nitish Reddy": {
+    "role": "Bowler",
+    "total_balls": 595,
+    "tiers": {
+      "low": 85,
+      "moderate": 327,
+      "high": 156,
+      "extreme": 27
+    },
+    "scenarios": {
+      "Adverse Momentum": 323,
+      "Aggressive Opposition": 136,
+      "Normal": 85,
+      "Death Leverage": 34,
+      "Defending Chase": 17
+    }
+  },
+  "Nurul Hasan": {
+    "role": "Batter",
+    "total_balls": 245,
+    "tiers": {
+      "low": 74,
+      "moderate": 117,
+      "high": 53,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Collapse": 116,
+      "Normal": 74,
+      "Run Chase": 43,
+      "Survival": 6,
+      "Momentum Deficit": 6
+    }
+  },
+  "Parvez Emon": {
+    "role": "Batter",
+    "total_balls": 536,
+    "tiers": {
+      "low": 482,
+      "moderate": 50,
+      "high": 4,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 482,
+      "Collapse": 35,
+      "Momentum Deficit": 18,
+      "Run Chase": 1
+    }
+  },
+  "Pathum Nissanka": {
+    "role": "Batter",
+    "total_balls": 1689,
+    "tiers": {
+      "low": 1537,
+      "moderate": 141,
+      "high": 3,
+      "extreme": 8
+    },
+    "scenarios": {
+      "Normal": 1537,
+      "Collapse": 69,
+      "Run Chase": 42,
+      "Momentum Deficit": 30,
+      "Survival": 11
+    }
+  },
+  "Phil Salt": {
+    "role": "Batter",
+    "total_balls": 1700,
+    "tiers": {
+      "low": 1599,
+      "moderate": 88,
+      "high": 9,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Normal": 1599,
+      "Run Chase": 47,
+      "Collapse": 46,
+      "Momentum Deficit": 8
+    }
+  },
+  "Prabhsimran Singh": {
+    "role": "Batter",
+    "total_balls": 1164,
+    "tiers": {
+      "low": 1077,
+      "moderate": 84,
+      "high": 3,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1077,
+      "Collapse": 47,
+      "Run Chase": 27,
+      "Momentum Deficit": 13
+    }
+  },
+  "Quinton de Kock": {
+    "role": "Batter",
+    "total_balls": 1326,
+    "tiers": {
+      "low": 1179,
+      "moderate": 140,
+      "high": 7,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1180,
+      "Run Chase": 94,
+      "Momentum Deficit": 26,
+      "Collapse": 26
+    }
+  },
+  "Rachin Ravindra": {
+    "role": "Bowler",
+    "total_balls": 136,
+    "tiers": {
+      "low": 37,
+      "moderate": 56,
+      "high": 43,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Aggressive Opposition": 47,
+      "Normal": 38,
+      "Adverse Momentum": 35,
+      "Death Leverage": 12,
+      "Defending Chase": 4
+    }
+  },
+  "Rahmanullah Gurbaz": {
+    "role": "Batter",
+    "total_balls": 1175,
+    "tiers": {
+      "low": 1094,
+      "moderate": 79,
+      "high": 2,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1094,
+      "Collapse": 61,
+      "Momentum Deficit": 17,
+      "Run Chase": 3
+    }
+  },
+  "Rahul Chopra": {
+    "role": "Batter",
+    "total_balls": 160,
+    "tiers": {
+      "low": 71,
+      "moderate": 60,
+      "high": 18,
+      "extreme": 11
+    },
+    "scenarios": {
+      "Normal": 71,
+      "Run Chase": 40,
+      "Collapse": 38,
+      "Momentum Deficit": 11
+    }
+  },
+  "Rahul Tewatia": {
+    "role": "Batter",
+    "total_balls": 562,
+    "tiers": {
+      "low": 140,
+      "moderate": 233,
+      "high": 138,
+      "extreme": 51
+    },
+    "scenarios": {
+      "Collapse": 216,
+      "Run Chase": 193,
+      "Normal": 140,
+      "Survival": 8,
+      "Momentum Deficit": 5
+    }
+  },
+  "Rahul Tripathi": {
+    "role": "Batter",
+    "total_balls": 734,
+    "tiers": {
+      "low": 602,
+      "moderate": 127,
+      "high": 5,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 602,
+      "Run Chase": 61,
+      "Collapse": 48,
+      "Momentum Deficit": 23
+    }
+  },
+  "Rajat Patidar": {
+    "role": "Batter",
+    "total_balls": 970,
+    "tiers": {
+      "low": 759,
+      "moderate": 206,
+      "high": 5,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 759,
+      "Collapse": 126,
+      "Run Chase": 50,
+      "Survival": 18,
+      "Momentum Deficit": 17
+    }
+  },
+  "Ramandeep Singh": {
+    "role": "Batter",
+    "total_balls": 218,
+    "tiers": {
+      "low": 49,
+      "moderate": 67,
+      "high": 77,
+      "extreme": 25
+    },
+    "scenarios": {
+      "Collapse": 114,
+      "Normal": 49,
+      "Run Chase": 35,
+      "Survival": 19,
+      "Momentum Deficit": 1
+    }
+  },
+  "Rashid Khan": {
+    "role": "Bowler",
+    "total_balls": 2780,
+    "tiers": {
+      "low": 531,
+      "moderate": 1512,
+      "high": 694,
+      "extreme": 43
+    },
+    "scenarios": {
+      "Adverse Momentum": 1311,
+      "Aggressive Opposition": 679,
+      "Normal": 534,
+      "Defending Chase": 128,
+      "Death Leverage": 128
+    }
+  },
+  "Rassie van der Dussen": {
+    "role": "Batter",
+    "total_balls": 318,
+    "tiers": {
+      "low": 207,
+      "moderate": 93,
+      "high": 18,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 207,
+      "Collapse": 67,
+      "Run Chase": 37,
+      "Momentum Deficit": 6,
+      "Survival": 1
+    }
+  },
+  "Ravichandran Ashwin": {
+    "role": "Bowler",
+    "total_balls": 1462,
+    "tiers": {
+      "low": 251,
+      "moderate": 797,
+      "high": 411,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Adverse Momentum": 747,
+      "Aggressive Opposition": 368,
+      "Normal": 251,
+      "Defending Chase": 57,
+      "Death Leverage": 39
+    }
+  },
+  "Ravindra Jadeja": {
+    "role": "Bowler",
+    "total_balls": 1423,
+    "tiers": {
+      "low": 290,
+      "moderate": 798,
+      "high": 329,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Adverse Momentum": 661,
+      "Aggressive Opposition": 400,
+      "Normal": 290,
+      "Defending Chase": 58,
+      "Death Leverage": 14
+    }
+  },
+  "Reeza Hendricks": {
+    "role": "Batter",
+    "total_balls": 860,
+    "tiers": {
+      "low": 695,
+      "moderate": 124,
+      "high": 26,
+      "extreme": 15
+    },
+    "scenarios": {
+      "Normal": 695,
+      "Run Chase": 75,
+      "Collapse": 67,
+      "Momentum Deficit": 23
+    }
+  },
+  "Rilee Rossouw": {
+    "role": "Batter",
+    "total_balls": 442,
+    "tiers": {
+      "low": 389,
+      "moderate": 51,
+      "high": 2,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 390,
+      "Run Chase": 23,
+      "Collapse": 19,
+      "Momentum Deficit": 10
+    }
+  },
+  "Rinku Singh": {
+    "role": "Batter",
+    "total_balls": 1350,
+    "tiers": {
+      "low": 712,
+      "moderate": 390,
+      "high": 183,
+      "extreme": 65
+    },
+    "scenarios": {
+      "Normal": 712,
+      "Collapse": 390,
+      "Run Chase": 191,
+      "Survival": 42,
+      "Momentum Deficit": 15
+    }
+  },
+  "Rishabh Pant": {
+    "role": "Batter",
+    "total_balls": 1294,
+    "tiers": {
+      "low": 992,
+      "moderate": 264,
+      "high": 36,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Normal": 993,
+      "Collapse": 172,
+      "Run Chase": 112,
+      "Momentum Deficit": 17
+    }
+  },
+  "Riyan Parag": {
+    "role": "Bowler",
+    "total_balls": 273,
+    "tiers": {
+      "low": 28,
+      "moderate": 145,
+      "high": 97,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Adverse Momentum": 151,
+      "Aggressive Opposition": 75,
+      "Normal": 28,
+      "Defending Chase": 14,
+      "Death Leverage": 5
+    }
+  },
+  "Rohit Sharma": {
+    "role": "Batter",
+    "total_balls": 1685,
+    "tiers": {
+      "low": 1567,
+      "moderate": 95,
+      "high": 19,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Normal": 1569,
+      "Collapse": 75,
+      "Run Chase": 28,
+      "Momentum Deficit": 13
+    }
+  },
+  "Romario Shepherd": {
+    "role": "Bowler",
+    "total_balls": 1657,
+    "tiers": {
+      "low": 170,
+      "moderate": 801,
+      "high": 594,
+      "extreme": 92
+    },
+    "scenarios": {
+      "Adverse Momentum": 868,
+      "Aggressive Opposition": 470,
+      "Normal": 171,
+      "Death Leverage": 92,
+      "Defending Chase": 56
+    }
+  },
+  "Roston Chase": {
+    "role": "Bowler",
+    "total_balls": 862,
+    "tiers": {
+      "low": 125,
+      "moderate": 494,
+      "high": 234,
+      "extreme": 9
+    },
+    "scenarios": {
+      "Adverse Momentum": 398,
+      "Aggressive Opposition": 256,
+      "Normal": 126,
+      "Defending Chase": 58,
+      "Death Leverage": 24
+    }
+  },
+  "Rovman Powell": {
+    "role": "Batter",
+    "total_balls": 1651,
+    "tiers": {
+      "low": 872,
+      "moderate": 503,
+      "high": 213,
+      "extreme": 63
+    },
+    "scenarios": {
+      "Normal": 872,
+      "Collapse": 418,
+      "Run Chase": 289,
+      "Momentum Deficit": 45,
+      "Survival": 27
+    }
+  },
+  "Ruturaj Gaikwad": {
+    "role": "Batter",
+    "total_balls": 1889,
+    "tiers": {
+      "low": 1760,
+      "moderate": 112,
+      "high": 17,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1760,
+      "Collapse": 72,
+      "Run Chase": 31,
+      "Momentum Deficit": 26
+    }
+  },
+  "Ryan Burl": {
+    "role": "Bowler",
+    "total_balls": 325,
+    "tiers": {
+      "low": 95,
+      "moderate": 198,
+      "high": 25,
+      "extreme": 7
+    },
+    "scenarios": {
+      "Adverse Momentum": 125,
+      "Normal": 95,
+      "Aggressive Opposition": 65,
+      "Defending Chase": 22,
+      "Death Leverage": 18
+    }
+  },
+  "Ryan Rickelton": {
+    "role": "Batter",
+    "total_balls": 883,
+    "tiers": {
+      "low": 827,
+      "moderate": 36,
+      "high": 11,
+      "extreme": 9
+    },
+    "scenarios": {
+      "Normal": 827,
+      "Run Chase": 22,
+      "Collapse": 21,
+      "Momentum Deficit": 13
+    }
+  },
+  "Sahibzada Farhan": {
+    "role": "Batter",
+    "total_balls": 834,
+    "tiers": {
+      "low": 771,
+      "moderate": 41,
+      "high": 18,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Normal": 771,
+      "Collapse": 53,
+      "Momentum Deficit": 7,
+      "Survival": 3
+    }
+  },
+  "Sai Sudharsan": {
+    "role": "Batter",
+    "total_balls": 1760,
+    "tiers": {
+      "low": 1607,
+      "moderate": 137,
+      "high": 16,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1608,
+      "Run Chase": 79,
+      "Collapse": 59,
+      "Momentum Deficit": 14
+    }
+  },
+  "Saim Ayub": {
+    "role": "Bowler",
+    "total_balls": 523,
+    "tiers": {
+      "low": 144,
+      "moderate": 313,
+      "high": 66,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 168,
+      "Normal": 144,
+      "Aggressive Opposition": 136,
+      "Defending Chase": 69,
+      "Death Leverage": 6
+    }
+  },
+  "Salil Arora": {
+    "role": "Batter",
+    "total_balls": 106,
+    "tiers": {
+      "low": 43,
+      "moderate": 44,
+      "high": 19,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 43,
+      "Collapse": 34,
+      "Survival": 17,
+      "Run Chase": 11,
+      "Momentum Deficit": 1
+    }
+  },
+  "Salman Agha": {
+    "role": "Bowler",
+    "total_balls": 111,
+    "tiers": {
+      "low": 36,
+      "moderate": 54,
+      "high": 21,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 41,
+      "Normal": 36,
+      "Aggressive Opposition": 19,
+      "Defending Chase": 11,
+      "Death Leverage": 4
+    }
+  },
+  "Sam Billings": {
+    "role": "Batter",
+    "total_balls": 188,
+    "tiers": {
+      "low": 98,
+      "moderate": 56,
+      "high": 32,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Normal": 98,
+      "Collapse": 54,
+      "Run Chase": 34,
+      "Momentum Deficit": 2
+    }
+  },
+  "Sam Curran": {
+    "role": "Bowler",
+    "total_balls": 1423,
+    "tiers": {
+      "low": 104,
+      "moderate": 786,
+      "high": 431,
+      "extreme": 102
+    },
+    "scenarios": {
+      "Adverse Momentum": 725,
+      "Aggressive Opposition": 366,
+      "Death Leverage": 122,
+      "Defending Chase": 106,
+      "Normal": 104
+    }
+  },
+  "Sameer Rizvi": {
+    "role": "Batter",
+    "total_balls": 304,
+    "tiers": {
+      "low": 187,
+      "moderate": 91,
+      "high": 22,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Normal": 187,
+      "Collapse": 62,
+      "Run Chase": 43,
+      "Momentum Deficit": 8,
+      "Survival": 4
+    }
+  },
+  "Sanju Samson": {
+    "role": "Batter",
+    "total_balls": 2305,
+    "tiers": {
+      "low": 2067,
+      "moderate": 229,
+      "high": 9,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 2067,
+      "Run Chase": 99,
+      "Collapse": 96,
+      "Momentum Deficit": 43
+    }
+  },
+  "Sarfaraz Khan": {
+    "role": "Batter",
+    "total_balls": 231,
+    "tiers": {
+      "low": 154,
+      "moderate": 69,
+      "high": 8,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 155,
+      "Collapse": 59,
+      "Run Chase": 10,
+      "Momentum Deficit": 7
+    }
+  },
+  "Sediqullah Atal": {
+    "role": "Batter",
+    "total_balls": 546,
+    "tiers": {
+      "low": 481,
+      "moderate": 55,
+      "high": 10,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 481,
+      "Collapse": 55,
+      "Momentum Deficit": 10
+    }
+  },
+  "Shadab Khan": {
+    "role": "Bowler",
+    "total_balls": 848,
+    "tiers": {
+      "low": 230,
+      "moderate": 477,
+      "high": 140,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Adverse Momentum": 396,
+      "Normal": 230,
+      "Aggressive Opposition": 175,
+      "Defending Chase": 39,
+      "Death Leverage": 8
+    }
+  },
+  "Shahbaz Ahmed": {
+    "role": "Bowler",
+    "total_balls": 554,
+    "tiers": {
+      "low": 77,
+      "moderate": 330,
+      "high": 139,
+      "extreme": 8
+    },
+    "scenarios": {
+      "Adverse Momentum": 261,
+      "Aggressive Opposition": 174,
+      "Normal": 77,
+      "Defending Chase": 38,
+      "Death Leverage": 4
+    }
+  },
+  "Shai Hope": {
+    "role": "Batter",
+    "total_balls": 1128,
+    "tiers": {
+      "low": 964,
+      "moderate": 154,
+      "high": 10,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 964,
+      "Collapse": 89,
+      "Run Chase": 53,
+      "Momentum Deficit": 22
+    }
+  },
+  "Shakib Al Hasan": {
+    "role": "Bowler",
+    "total_balls": 344,
+    "tiers": {
+      "low": 41,
+      "moderate": 222,
+      "high": 71,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Adverse Momentum": 162,
+      "Aggressive Opposition": 73,
+      "Defending Chase": 44,
+      "Normal": 41,
+      "Death Leverage": 24
+    }
+  },
+  "Shamim Hossain": {
+    "role": "Batter",
+    "total_balls": 412,
+    "tiers": {
+      "low": 207,
+      "moderate": 130,
+      "high": 69,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Normal": 209,
+      "Collapse": 158,
+      "Survival": 25,
+      "Run Chase": 14,
+      "Momentum Deficit": 6
+    }
+  },
+  "Shardul Thakur": {
+    "role": "Bowler",
+    "total_balls": 1047,
+    "tiers": {
+      "low": 104,
+      "moderate": 501,
+      "high": 353,
+      "extreme": 89
+    },
+    "scenarios": {
+      "Adverse Momentum": 511,
+      "Aggressive Opposition": 280,
+      "Normal": 104,
+      "Death Leverage": 93,
+      "Defending Chase": 59
+    }
+  },
+  "Shashank Singh": {
+    "role": "Batter",
+    "total_balls": 588,
+    "tiers": {
+      "low": 236,
+      "moderate": 206,
+      "high": 96,
+      "extreme": 50
+    },
+    "scenarios": {
+      "Normal": 236,
+      "Run Chase": 158,
+      "Collapse": 154,
+      "Survival": 35,
+      "Momentum Deficit": 5
+    }
+  },
+  "Sherfane Rutherford": {
+    "role": "Batter",
+    "total_balls": 870,
+    "tiers": {
+      "low": 484,
+      "moderate": 313,
+      "high": 66,
+      "extreme": 7
+    },
+    "scenarios": {
+      "Normal": 485,
+      "Collapse": 186,
+      "Run Chase": 181,
+      "Momentum Deficit": 13,
+      "Survival": 5
+    }
+  },
+  "Shikhar Dhawan": {
+    "role": "Batter",
+    "total_balls": 795,
+    "tiers": {
+      "low": 695,
+      "moderate": 71,
+      "high": 16,
+      "extreme": 13
+    },
+    "scenarios": {
+      "Normal": 695,
+      "Collapse": 65,
+      "Momentum Deficit": 17,
+      "Survival": 11,
+      "Run Chase": 7
+    }
+  },
+  "Shimron Hetmyer": {
+    "role": "Batter",
+    "total_balls": 1306,
+    "tiers": {
+      "low": 621,
+      "moderate": 486,
+      "high": 167,
+      "extreme": 32
+    },
+    "scenarios": {
+      "Normal": 624,
+      "Collapse": 424,
+      "Run Chase": 216,
+      "Momentum Deficit": 35,
+      "Survival": 7
+    }
+  },
+  "Shivam Dube": {
+    "role": "Bowler",
+    "total_balls": 491,
+    "tiers": {
+      "low": 117,
+      "moderate": 258,
+      "high": 102,
+      "extreme": 14
+    },
+    "scenarios": {
+      "Adverse Momentum": 228,
+      "Normal": 118,
+      "Aggressive Opposition": 114,
+      "Death Leverage": 17,
+      "Defending Chase": 14
+    }
+  },
+  "Shreyas Iyer": {
+    "role": "Batter",
+    "total_balls": 1935,
+    "tiers": {
+      "low": 1551,
+      "moderate": 364,
+      "high": 20,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1552,
+      "Collapse": 285,
+      "Run Chase": 64,
+      "Momentum Deficit": 34
+    }
+  },
+  "Shubham Dubey": {
+    "role": "Batter",
+    "total_balls": 148,
+    "tiers": {
+      "low": 23,
+      "moderate": 55,
+      "high": 61,
+      "extreme": 9
+    },
+    "scenarios": {
+      "Run Chase": 59,
+      "Collapse": 55,
+      "Normal": 23,
+      "Survival": 11
+    }
+  },
+  "Shubman Gill": {
+    "role": "Batter",
+    "total_balls": 2804,
+    "tiers": {
+      "low": 2652,
+      "moderate": 152,
+      "high": 0,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 2652,
+      "Collapse": 76,
+      "Run Chase": 59,
+      "Momentum Deficit": 17
+    }
+  },
+  "Sikandar Raza": {
+    "role": "Bowler",
+    "total_balls": 1116,
+    "tiers": {
+      "low": 249,
+      "moderate": 688,
+      "high": 151,
+      "extreme": 28
+    },
+    "scenarios": {
+      "Adverse Momentum": 425,
+      "Aggressive Opposition": 314,
+      "Normal": 253,
+      "Defending Chase": 97,
+      "Death Leverage": 27
+    }
+  },
+  "Sunil Narine": {
+    "role": "Bowler",
+    "total_balls": 1553,
+    "tiers": {
+      "low": 260,
+      "moderate": 844,
+      "high": 420,
+      "extreme": 29
+    },
+    "scenarios": {
+      "Adverse Momentum": 733,
+      "Aggressive Opposition": 461,
+      "Normal": 262,
+      "Defending Chase": 49,
+      "Death Leverage": 48
+    }
+  },
+  "Suryakumar Yadav": {
+    "role": "Batter",
+    "total_balls": 2848,
+    "tiers": {
+      "low": 2197,
+      "moderate": 590,
+      "high": 47,
+      "extreme": 14
+    },
+    "scenarios": {
+      "Normal": 2198,
+      "Collapse": 359,
+      "Run Chase": 201,
+      "Momentum Deficit": 77,
+      "Survival": 13
+    }
+  },
+  "Suryansh Shedge": {
+    "role": "Batter",
+    "total_balls": 115,
+    "tiers": {
+      "low": 31,
+      "moderate": 51,
+      "high": 27,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Run Chase": 43,
+      "Collapse": 38,
+      "Normal": 31,
+      "Momentum Deficit": 3
+    }
+  },
+  "Suyash Prabhudessai": {
+    "role": "Batter",
+    "total_balls": 113,
+    "tiers": {
+      "low": 31,
+      "moderate": 55,
+      "high": 18,
+      "extreme": 9
+    },
+    "scenarios": {
+      "Collapse": 57,
+      "Normal": 31,
+      "Run Chase": 17,
+      "Momentum Deficit": 5,
+      "Survival": 3
+    }
+  },
+  "Tadiwanashe Marumani": {
+    "role": "Batter",
+    "total_balls": 449,
+    "tiers": {
+      "low": 374,
+      "moderate": 44,
+      "high": 28,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Normal": 374,
+      "Collapse": 36,
+      "Run Chase": 29,
+      "Momentum Deficit": 8,
+      "Survival": 2
+    }
+  },
+  "Tashinga Musekiwa": {
+    "role": "Batter",
+    "total_balls": 213,
+    "tiers": {
+      "low": 33,
+      "moderate": 126,
+      "high": 47,
+      "extreme": 7
+    },
+    "scenarios": {
+      "Collapse": 114,
+      "Normal": 34,
+      "Survival": 31,
+      "Run Chase": 27,
+      "Momentum Deficit": 7
+    }
+  },
+  "Tim David": {
+    "role": "Batter",
+    "total_balls": 1293,
+    "tiers": {
+      "low": 594,
+      "moderate": 465,
+      "high": 194,
+      "extreme": 40
+    },
+    "scenarios": {
+      "Normal": 596,
+      "Collapse": 410,
+      "Run Chase": 217,
+      "Survival": 55,
+      "Momentum Deficit": 15
+    }
+  },
+  "Tim Seifert": {
+    "role": "Batter",
+    "total_balls": 789,
+    "tiers": {
+      "low": 715,
+      "moderate": 68,
+      "high": 5,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Normal": 715,
+      "Collapse": 29,
+      "Run Chase": 26,
+      "Momentum Deficit": 19
+    }
+  },
+  "Tony Munyonga": {
+    "role": "Batter",
+    "total_balls": 144,
+    "tiers": {
+      "low": 53,
+      "moderate": 83,
+      "high": 8,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Collapse": 63,
+      "Normal": 53,
+      "Survival": 13,
+      "Run Chase": 9,
+      "Momentum Deficit": 6
+    }
+  },
+  "Towhid Hridoy": {
+    "role": "Batter",
+    "total_balls": 960,
+    "tiers": {
+      "low": 639,
+      "moderate": 241,
+      "high": 55,
+      "extreme": 25
+    },
+    "scenarios": {
+      "Normal": 639,
+      "Collapse": 180,
+      "Run Chase": 104,
+      "Momentum Deficit": 33,
+      "Survival": 4
+    }
+  },
+  "Tristan Stubbs": {
+    "role": "Batter",
+    "total_balls": 1113,
+    "tiers": {
+      "low": 564,
+      "moderate": 416,
+      "high": 117,
+      "extreme": 16
+    },
+    "scenarios": {
+      "Normal": 566,
+      "Collapse": 278,
+      "Run Chase": 230,
+      "Survival": 32,
+      "Momentum Deficit": 7
+    }
+  },
+  "Usman Khan": {
+    "role": "Batter",
+    "total_balls": 333,
+    "tiers": {
+      "low": 248,
+      "moderate": 80,
+      "high": 5,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 248,
+      "Collapse": 59,
+      "Run Chase": 16,
+      "Momentum Deficit": 10
+    }
+  },
+  "Venkatesh Iyer": {
+    "role": "Batter",
+    "total_balls": 979,
+    "tiers": {
+      "low": 765,
+      "moderate": 179,
+      "high": 25,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Normal": 766,
+      "Collapse": 127,
+      "Run Chase": 48,
+      "Survival": 25,
+      "Momentum Deficit": 13
+    }
+  },
+  "Vijay Shankar": {
+    "role": "Batter",
+    "total_balls": 405,
+    "tiers": {
+      "low": 249,
+      "moderate": 130,
+      "high": 22,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Normal": 249,
+      "Collapse": 84,
+      "Run Chase": 63,
+      "Momentum Deficit": 9
+    }
+  },
+  "Virat Kohli": {
+    "role": "Batter",
+    "total_balls": 2545,
+    "tiers": {
+      "low": 2420,
+      "moderate": 124,
+      "high": 1,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 2421,
+      "Collapse": 92,
+      "Momentum Deficit": 18,
+      "Run Chase": 14
+    }
+  },
+  "Wanindu Hasaranga": {
+    "role": "Bowler",
+    "total_balls": 2053,
+    "tiers": {
+      "low": 398,
+      "moderate": 1173,
+      "high": 448,
+      "extreme": 34
+    },
+    "scenarios": {
+      "Adverse Momentum": 991,
+      "Aggressive Opposition": 558,
+      "Normal": 401,
+      "Defending Chase": 60,
+      "Death Leverage": 43
+    }
+  },
+  "Washington Sundar": {
+    "role": "Bowler",
+    "total_balls": 802,
+    "tiers": {
+      "low": 169,
+      "moderate": 461,
+      "high": 169,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Adverse Momentum": 382,
+      "Aggressive Opposition": 185,
+      "Normal": 169,
+      "Death Leverage": 49,
+      "Defending Chase": 17
+    }
+  },
+  "Wesley Madhevere": {
+    "role": "Bowler",
+    "total_balls": 99,
+    "tiers": {
+      "low": 31,
+      "moderate": 55,
+      "high": 13,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 42,
+      "Normal": 31,
+      "Aggressive Opposition": 18,
+      "Defending Chase": 8
+    }
+  },
+  "William Jacks": {
+    "role": "Bowler",
+    "total_balls": 431,
+    "tiers": {
+      "low": 66,
+      "moderate": 261,
+      "high": 104,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 190,
+      "Aggressive Opposition": 141,
+      "Normal": 66,
+      "Defending Chase": 20,
+      "Death Leverage": 14
+    }
+  },
+  "Yashasvi Jaiswal": {
+    "role": "Batter",
+    "total_balls": 1936,
+    "tiers": {
+      "low": 1875,
+      "moderate": 46,
+      "high": 15,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 1875,
+      "Collapse": 34,
+      "Momentum Deficit": 18,
+      "Run Chase": 9
+    }
+  },
+  "Yasir Ali Chowdhury": {
+    "role": "Batter",
+    "total_balls": 123,
+    "tiers": {
+      "low": 40,
+      "moderate": 54,
+      "high": 15,
+      "extreme": 14
+    },
+    "scenarios": {
+      "Collapse": 46,
+      "Normal": 40,
+      "Run Chase": 36,
+      "Momentum Deficit": 1
+    }
+  },
+  "Aayan Afzal Khan": {
+    "role": "Bowler",
+    "total_balls": 102,
+    "tiers": {
+      "low": 21,
+      "moderate": 70,
+      "high": 11,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 48,
+      "Aggressive Opposition": 33,
+      "Normal": 21
+    }
+  },
+  "Abbas Afridi": {
+    "role": "Bowler",
+    "total_balls": 418,
+    "tiers": {
+      "low": 38,
+      "moderate": 184,
+      "high": 186,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Adverse Momentum": 193,
+      "Aggressive Opposition": 124,
+      "Death Leverage": 44,
+      "Normal": 38,
+      "Defending Chase": 19
+    }
+  },
+  "Abdullah Ahmadzai": {
+    "role": "Bowler",
+    "total_balls": 200,
+    "tiers": {
+      "low": 38,
+      "moderate": 122,
+      "high": 39,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Adverse Momentum": 92,
+      "Aggressive Opposition": 44,
+      "Normal": 38,
+      "Death Leverage": 14,
+      "Defending Chase": 12
+    }
+  },
+  "Abrar Ahmed": {
+    "role": "Bowler",
+    "total_balls": 776,
+    "tiers": {
+      "low": 228,
+      "moderate": 398,
+      "high": 143,
+      "extreme": 7
+    },
+    "scenarios": {
+      "Adverse Momentum": 310,
+      "Normal": 229,
+      "Aggressive Opposition": 157,
+      "Defending Chase": 49,
+      "Death Leverage": 31
+    }
+  },
+  "Adam Milne": {
+    "role": "Bowler",
+    "total_balls": 581,
+    "tiers": {
+      "low": 74,
+      "moderate": 328,
+      "high": 153,
+      "extreme": 26
+    },
+    "scenarios": {
+      "Adverse Momentum": 270,
+      "Aggressive Opposition": 148,
+      "Normal": 74,
+      "Defending Chase": 56,
+      "Death Leverage": 33
+    }
+  },
+  "Adam Zampa": {
+    "role": "Bowler",
+    "total_balls": 1175,
+    "tiers": {
+      "low": 206,
+      "moderate": 680,
+      "high": 260,
+      "extreme": 29
+    },
+    "scenarios": {
+      "Adverse Momentum": 564,
+      "Aggressive Opposition": 314,
+      "Normal": 207,
+      "Death Leverage": 55,
+      "Defending Chase": 35
+    }
+  },
+  "Adil Rashid": {
+    "role": "Bowler",
+    "total_balls": 1347,
+    "tiers": {
+      "low": 300,
+      "moderate": 748,
+      "high": 258,
+      "extreme": 41
+    },
+    "scenarios": {
+      "Adverse Momentum": 637,
+      "Aggressive Opposition": 327,
+      "Normal": 302,
+      "Defending Chase": 48,
+      "Death Leverage": 33
+    }
+  },
+  "Akash Deep": {
+    "role": "Bowler",
+    "total_balls": 302,
+    "tiers": {
+      "low": 23,
+      "moderate": 158,
+      "high": 98,
+      "extreme": 23
+    },
+    "scenarios": {
+      "Adverse Momentum": 148,
+      "Aggressive Opposition": 109,
+      "Normal": 23,
+      "Defending Chase": 17,
+      "Death Leverage": 5
+    }
+  },
+  "Akash Madhwal": {
+    "role": "Bowler",
+    "total_balls": 376,
+    "tiers": {
+      "low": 28,
+      "moderate": 154,
+      "high": 120,
+      "extreme": 74
+    },
+    "scenarios": {
+      "Adverse Momentum": 170,
+      "Aggressive Opposition": 144,
+      "Normal": 28,
+      "Death Leverage": 27,
+      "Defending Chase": 7
+    }
+  },
+  "Akash Singh": {
+    "role": "Bowler",
+    "total_balls": 232,
+    "tiers": {
+      "low": 41,
+      "moderate": 131,
+      "high": 60,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 111,
+      "Aggressive Opposition": 59,
+      "Normal": 41,
+      "Defending Chase": 17,
+      "Death Leverage": 4
+    }
+  },
+  "Akeal Hosein": {
+    "role": "Bowler",
+    "total_balls": 1734,
+    "tiers": {
+      "low": 377,
+      "moderate": 945,
+      "high": 390,
+      "extreme": 22
+    },
+    "scenarios": {
+      "Adverse Momentum": 709,
+      "Aggressive Opposition": 446,
+      "Normal": 378,
+      "Defending Chase": 168,
+      "Death Leverage": 33
+    }
+  },
+  "Allah Ghazanfar": {
+    "role": "Bowler",
+    "total_balls": 310,
+    "tiers": {
+      "low": 36,
+      "moderate": 162,
+      "high": 112,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 173,
+      "Aggressive Opposition": 84,
+      "Normal": 36,
+      "Defending Chase": 13,
+      "Death Leverage": 4
+    }
+  },
+  "Alzarri Joseph": {
+    "role": "Bowler",
+    "total_balls": 1214,
+    "tiers": {
+      "low": 93,
+      "moderate": 669,
+      "high": 401,
+      "extreme": 51
+    },
+    "scenarios": {
+      "Adverse Momentum": 600,
+      "Aggressive Opposition": 340,
+      "Death Leverage": 122,
+      "Normal": 94,
+      "Defending Chase": 58
+    }
+  },
+  "Amit Mishra": {
+    "role": "Bowler",
+    "total_balls": 127,
+    "tiers": {
+      "low": 24,
+      "moderate": 79,
+      "high": 24,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 42,
+      "Aggressive Opposition": 39,
+      "Normal": 24,
+      "Death Leverage": 19,
+      "Defending Chase": 3
+    }
+  },
+  "Andile Phehlukwayo": {
+    "role": "Bowler",
+    "total_balls": 152,
+    "tiers": {
+      "low": 32,
+      "moderate": 48,
+      "high": 56,
+      "extreme": 16
+    },
+    "scenarios": {
+      "Adverse Momentum": 80,
+      "Aggressive Opposition": 40,
+      "Normal": 32
+    }
+  },
+  "Anrich Nortje": {
+    "role": "Bowler",
+    "total_balls": 878,
+    "tiers": {
+      "low": 67,
+      "moderate": 429,
+      "high": 288,
+      "extreme": 94
+    },
+    "scenarios": {
+      "Adverse Momentum": 413,
+      "Aggressive Opposition": 291,
+      "Normal": 67,
+      "Defending Chase": 62,
+      "Death Leverage": 45
+    }
+  },
+  "Anshul Kamboj": {
+    "role": "Bowler",
+    "total_balls": 513,
+    "tiers": {
+      "low": 42,
+      "moderate": 246,
+      "high": 195,
+      "extreme": 30
+    },
+    "scenarios": {
+      "Adverse Momentum": 237,
+      "Aggressive Opposition": 178,
+      "Normal": 42,
+      "Death Leverage": 37,
+      "Defending Chase": 19
+    }
+  },
+  "Anukul Roy": {
+    "role": "Bowler",
+    "total_balls": 336,
+    "tiers": {
+      "low": 46,
+      "moderate": 181,
+      "high": 109,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 148,
+      "Aggressive Opposition": 106,
+      "Normal": 46,
+      "Defending Chase": 28,
+      "Death Leverage": 8
+    }
+  },
+  "Arjun Tendulkar": {
+    "role": "Bowler",
+    "total_balls": 107,
+    "tiers": {
+      "low": 34,
+      "moderate": 35,
+      "high": 33,
+      "extreme": 5
+    },
+    "scenarios": {
+      "Normal": 34,
+      "Aggressive Opposition": 32,
+      "Adverse Momentum": 31,
+      "Defending Chase": 9,
+      "Death Leverage": 1
+    }
+  },
+  "Arshad Khan": {
+    "role": "Bowler",
+    "total_balls": 413,
+    "tiers": {
+      "low": 51,
+      "moderate": 219,
+      "high": 110,
+      "extreme": 33
+    },
+    "scenarios": {
+      "Adverse Momentum": 205,
+      "Aggressive Opposition": 99,
+      "Normal": 52,
+      "Defending Chase": 36,
+      "Death Leverage": 21
+    }
+  },
+  "Arshdeep Singh": {
+    "role": "Bowler",
+    "total_balls": 3426,
+    "tiers": {
+      "low": 550,
+      "moderate": 1697,
+      "high": 922,
+      "extreme": 257
+    },
+    "scenarios": {
+      "Adverse Momentum": 1509,
+      "Aggressive Opposition": 837,
+      "Normal": 554,
+      "Death Leverage": 274,
+      "Defending Chase": 252
+    }
+  },
+  "Aryan Dutt": {
+    "role": "Bowler",
+    "total_balls": 142,
+    "tiers": {
+      "low": 36,
+      "moderate": 89,
+      "high": 15,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Adverse Momentum": 71,
+      "Normal": 36,
+      "Defending Chase": 18,
+      "Aggressive Opposition": 17
+    }
+  },
+  "Ashok Sharma": {
+    "role": "Bowler",
+    "total_balls": 187,
+    "tiers": {
+      "low": 35,
+      "moderate": 87,
+      "high": 53,
+      "extreme": 12
+    },
+    "scenarios": {
+      "Adverse Momentum": 88,
+      "Aggressive Opposition": 44,
+      "Normal": 35,
+      "Death Leverage": 14,
+      "Defending Chase": 6
+    }
+  },
+  "Ashton Agar": {
+    "role": "Bowler",
+    "total_balls": 145,
+    "tiers": {
+      "low": 42,
+      "moderate": 92,
+      "high": 11,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 66,
+      "Normal": 42,
+      "Aggressive Opposition": 21,
+      "Defending Chase": 9,
+      "Death Leverage": 7
+    }
+  },
+  "Ashwani Kumar": {
+    "role": "Bowler",
+    "total_balls": 196,
+    "tiers": {
+      "low": 28,
+      "moderate": 98,
+      "high": 65,
+      "extreme": 5
+    },
+    "scenarios": {
+      "Adverse Momentum": 101,
+      "Aggressive Opposition": 63,
+      "Normal": 28,
+      "Death Leverage": 4
+    }
+  },
+  "Avesh Khan": {
+    "role": "Bowler",
+    "total_balls": 1745,
+    "tiers": {
+      "low": 181,
+      "moderate": 905,
+      "high": 551,
+      "extreme": 108
+    },
+    "scenarios": {
+      "Adverse Momentum": 858,
+      "Aggressive Opposition": 437,
+      "Normal": 184,
+      "Death Leverage": 148,
+      "Defending Chase": 118
+    }
+  },
+  "Ayush Shukla": {
+    "role": "Bowler",
+    "total_balls": 149,
+    "tiers": {
+      "low": 29,
+      "moderate": 67,
+      "high": 30,
+      "extreme": 23
+    },
+    "scenarios": {
+      "Adverse Momentum": 77,
+      "Normal": 30,
+      "Aggressive Opposition": 30,
+      "Defending Chase": 12
+    }
+  },
+  "Barry McCarthy": {
+    "role": "Bowler",
+    "total_balls": 662,
+    "tiers": {
+      "low": 101,
+      "moderate": 380,
+      "high": 160,
+      "extreme": 21
+    },
+    "scenarios": {
+      "Adverse Momentum": 297,
+      "Aggressive Opposition": 134,
+      "Normal": 101,
+      "Defending Chase": 71,
+      "Death Leverage": 59
+    }
+  },
+  "Ben Dwarshuis": {
+    "role": "Bowler",
+    "total_balls": 334,
+    "tiers": {
+      "low": 40,
+      "moderate": 180,
+      "high": 97,
+      "extreme": 17
+    },
+    "scenarios": {
+      "Adverse Momentum": 199,
+      "Aggressive Opposition": 59,
+      "Normal": 40,
+      "Death Leverage": 33,
+      "Defending Chase": 3
+    }
+  },
+  "Benjamin Sears": {
+    "role": "Bowler",
+    "total_balls": 463,
+    "tiers": {
+      "low": 58,
+      "moderate": 274,
+      "high": 123,
+      "extreme": 8
+    },
+    "scenarios": {
+      "Adverse Momentum": 217,
+      "Aggressive Opposition": 143,
+      "Normal": 58,
+      "Death Leverage": 34,
+      "Defending Chase": 11
+    }
+  },
+  "Benjamin White": {
+    "role": "Bowler",
+    "total_balls": 404,
+    "tiers": {
+      "low": 38,
+      "moderate": 236,
+      "high": 130,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 232,
+      "Aggressive Opposition": 111,
+      "Normal": 38,
+      "Defending Chase": 19,
+      "Death Leverage": 4
+    }
+  },
+  "Bhuvneshwar Kumar": {
+    "role": "Bowler",
+    "total_balls": 2314,
+    "tiers": {
+      "low": 362,
+      "moderate": 1234,
+      "high": 557,
+      "extreme": 161
+    },
+    "scenarios": {
+      "Adverse Momentum": 940,
+      "Aggressive Opposition": 559,
+      "Normal": 365,
+      "Defending Chase": 293,
+      "Death Leverage": 157
+    }
+  },
+  "Binura Fernando": {
+    "role": "Bowler",
+    "total_balls": 356,
+    "tiers": {
+      "low": 63,
+      "moderate": 192,
+      "high": 74,
+      "extreme": 27
+    },
+    "scenarios": {
+      "Adverse Momentum": 187,
+      "Aggressive Opposition": 68,
+      "Normal": 63,
+      "Defending Chase": 28,
+      "Death Leverage": 10
+    }
+  },
+  "Bjorn Fortuin": {
+    "role": "Bowler",
+    "total_balls": 217,
+    "tiers": {
+      "low": 29,
+      "moderate": 100,
+      "high": 87,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Adverse Momentum": 101,
+      "Aggressive Opposition": 73,
+      "Normal": 29,
+      "Defending Chase": 13,
+      "Death Leverage": 1
+    }
+  },
+  "Blessing Muzarabani": {
+    "role": "Bowler",
+    "total_balls": 846,
+    "tiers": {
+      "low": 121,
+      "moderate": 432,
+      "high": 246,
+      "extreme": 47
+    },
+    "scenarios": {
+      "Adverse Momentum": 394,
+      "Aggressive Opposition": 165,
+      "Normal": 123,
+      "Defending Chase": 84,
+      "Death Leverage": 80
+    }
+  },
+  "Brad Evans": {
+    "role": "Bowler",
+    "total_balls": 457,
+    "tiers": {
+      "low": 53,
+      "moderate": 204,
+      "high": 161,
+      "extreme": 39
+    },
+    "scenarios": {
+      "Adverse Momentum": 191,
+      "Aggressive Opposition": 131,
+      "Normal": 55,
+      "Death Leverage": 43,
+      "Defending Chase": 37
+    }
+  },
+  "Chamika Karunaratne": {
+    "role": "Bowler",
+    "total_balls": 351,
+    "tiers": {
+      "low": 65,
+      "moderate": 198,
+      "high": 74,
+      "extreme": 14
+    },
+    "scenarios": {
+      "Adverse Momentum": 151,
+      "Aggressive Opposition": 106,
+      "Normal": 65,
+      "Death Leverage": 23,
+      "Defending Chase": 6
+    }
+  },
+  "Chris Jordan": {
+    "role": "Bowler",
+    "total_balls": 574,
+    "tiers": {
+      "low": 45,
+      "moderate": 301,
+      "high": 173,
+      "extreme": 55
+    },
+    "scenarios": {
+      "Adverse Momentum": 278,
+      "Aggressive Opposition": 172,
+      "Death Leverage": 72,
+      "Normal": 45,
+      "Defending Chase": 7
+    }
+  },
+  "Chris Woakes": {
+    "role": "Bowler",
+    "total_balls": 166,
+    "tiers": {
+      "low": 47,
+      "moderate": 94,
+      "high": 25,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 69,
+      "Normal": 48,
+      "Aggressive Opposition": 28,
+      "Defending Chase": 16,
+      "Death Leverage": 5
+    }
+  },
+  "Cole McConchie": {
+    "role": "Bowler",
+    "total_balls": 121,
+    "tiers": {
+      "low": 43,
+      "moderate": 49,
+      "high": 29,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 51,
+      "Normal": 43,
+      "Aggressive Opposition": 25,
+      "Defending Chase": 1,
+      "Death Leverage": 1
+    }
+  },
+  "Corbin Bosch": {
+    "role": "Bowler",
+    "total_balls": 384,
+    "tiers": {
+      "low": 45,
+      "moderate": 218,
+      "high": 113,
+      "extreme": 8
+    },
+    "scenarios": {
+      "Adverse Momentum": 211,
+      "Aggressive Opposition": 69,
+      "Normal": 45,
+      "Death Leverage": 30,
+      "Defending Chase": 29
+    }
+  },
+  "Craig Young": {
+    "role": "Bowler",
+    "total_balls": 480,
+    "tiers": {
+      "low": 47,
+      "moderate": 256,
+      "high": 163,
+      "extreme": 14
+    },
+    "scenarios": {
+      "Adverse Momentum": 255,
+      "Aggressive Opposition": 118,
+      "Normal": 47,
+      "Defending Chase": 35,
+      "Death Leverage": 25
+    }
+  },
+  "DT Doram": {
+    "role": "Bowler",
+    "total_balls": 192,
+    "tiers": {
+      "low": 36,
+      "moderate": 137,
+      "high": 19,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 86,
+      "Aggressive Opposition": 56,
+      "Normal": 36,
+      "Defending Chase": 11,
+      "Death Leverage": 3
+    }
+  },
+  "Deepak Chahar": {
+    "role": "Bowler",
+    "total_balls": 964,
+    "tiers": {
+      "low": 205,
+      "moderate": 528,
+      "high": 211,
+      "extreme": 20
+    },
+    "scenarios": {
+      "Adverse Momentum": 379,
+      "Aggressive Opposition": 225,
+      "Normal": 208,
+      "Defending Chase": 126,
+      "Death Leverage": 26
+    }
+  },
+  "Dhruv Parashar": {
+    "role": "Bowler",
+    "total_balls": 193,
+    "tiers": {
+      "low": 45,
+      "moderate": 99,
+      "high": 49,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 86,
+      "Aggressive Opposition": 62,
+      "Normal": 45
+    }
+  },
+  "Digvesh Rathi": {
+    "role": "Bowler",
+    "total_balls": 561,
+    "tiers": {
+      "low": 44,
+      "moderate": 276,
+      "high": 222,
+      "extreme": 19
+    },
+    "scenarios": {
+      "Adverse Momentum": 281,
+      "Aggressive Opposition": 200,
+      "Normal": 45,
+      "Defending Chase": 21,
+      "Death Leverage": 14
+    }
+  },
+  "Dilshan Madushanka": {
+    "role": "Bowler",
+    "total_balls": 397,
+    "tiers": {
+      "low": 70,
+      "moderate": 234,
+      "high": 84,
+      "extreme": 9
+    },
+    "scenarios": {
+      "Adverse Momentum": 134,
+      "Aggressive Opposition": 88,
+      "Normal": 71,
+      "Defending Chase": 68,
+      "Death Leverage": 36
+    }
+  },
+  "Dunith Wellalage": {
+    "role": "Bowler",
+    "total_balls": 260,
+    "tiers": {
+      "low": 64,
+      "moderate": 144,
+      "high": 46,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Adverse Momentum": 94,
+      "Normal": 64,
+      "Aggressive Opposition": 60,
+      "Defending Chase": 32,
+      "Death Leverage": 10
+    }
+  },
+  "Dushmantha Chameera": {
+    "role": "Bowler",
+    "total_balls": 1204,
+    "tiers": {
+      "low": 158,
+      "moderate": 664,
+      "high": 338,
+      "extreme": 44
+    },
+    "scenarios": {
+      "Adverse Momentum": 587,
+      "Aggressive Opposition": 215,
+      "Normal": 160,
+      "Death Leverage": 127,
+      "Defending Chase": 115
+    }
+  },
+  "Eshan Malinga": {
+    "role": "Bowler",
+    "total_balls": 868,
+    "tiers": {
+      "low": 65,
+      "moderate": 487,
+      "high": 279,
+      "extreme": 37
+    },
+    "scenarios": {
+      "Adverse Momentum": 446,
+      "Aggressive Opposition": 284,
+      "Normal": 65,
+      "Death Leverage": 53,
+      "Defending Chase": 20
+    }
+  },
+  "Fabian Allen": {
+    "role": "Bowler",
+    "total_balls": 180,
+    "tiers": {
+      "low": 45,
+      "moderate": 89,
+      "high": 44,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Adverse Momentum": 88,
+      "Normal": 45,
+      "Aggressive Opposition": 25,
+      "Death Leverage": 12,
+      "Defending Chase": 10
+    }
+  },
+  "Faheem Ashraf": {
+    "role": "Bowler",
+    "total_balls": 452,
+    "tiers": {
+      "low": 80,
+      "moderate": 266,
+      "high": 104,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Adverse Momentum": 175,
+      "Aggressive Opposition": 112,
+      "Normal": 81,
+      "Defending Chase": 46,
+      "Death Leverage": 38
+    }
+  },
+  "Fareed Malik": {
+    "role": "Bowler",
+    "total_balls": 316,
+    "tiers": {
+      "low": 78,
+      "moderate": 166,
+      "high": 55,
+      "extreme": 17
+    },
+    "scenarios": {
+      "Adverse Momentum": 109,
+      "Normal": 78,
+      "Aggressive Opposition": 67,
+      "Defending Chase": 43,
+      "Death Leverage": 19
+    }
+  },
+  "FazalHaq Farooqi": {
+    "role": "Bowler",
+    "total_balls": 1063,
+    "tiers": {
+      "low": 165,
+      "moderate": 654,
+      "high": 212,
+      "extreme": 32
+    },
+    "scenarios": {
+      "Adverse Momentum": 385,
+      "Defending Chase": 187,
+      "Aggressive Opposition": 185,
+      "Normal": 166,
+      "Death Leverage": 140
+    }
+  },
+  "George Linde": {
+    "role": "Bowler",
+    "total_balls": 295,
+    "tiers": {
+      "low": 47,
+      "moderate": 186,
+      "high": 62,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Aggressive Opposition": 111,
+      "Adverse Momentum": 108,
+      "Normal": 47,
+      "Defending Chase": 23,
+      "Death Leverage": 6
+    }
+  },
+  "Gerald Coetzee": {
+    "role": "Bowler",
+    "total_balls": 647,
+    "tiers": {
+      "low": 70,
+      "moderate": 315,
+      "high": 228,
+      "extreme": 34
+    },
+    "scenarios": {
+      "Adverse Momentum": 287,
+      "Aggressive Opposition": 182,
+      "Normal": 70,
+      "Death Leverage": 55,
+      "Defending Chase": 53
+    }
+  },
+  "Gudakesh Motie": {
+    "role": "Bowler",
+    "total_balls": 753,
+    "tiers": {
+      "low": 103,
+      "moderate": 385,
+      "high": 248,
+      "extreme": 17
+    },
+    "scenarios": {
+      "Adverse Momentum": 358,
+      "Aggressive Opposition": 230,
+      "Normal": 105,
+      "Defending Chase": 49,
+      "Death Leverage": 11
+    }
+  },
+  "Gurjapneet Singh": {
+    "role": "Bowler",
+    "total_balls": 159,
+    "tiers": {
+      "low": 24,
+      "moderate": 80,
+      "high": 48,
+      "extreme": 7
+    },
+    "scenarios": {
+      "Adverse Momentum": 69,
+      "Aggressive Opposition": 52,
+      "Normal": 24,
+      "Death Leverage": 7,
+      "Defending Chase": 7
+    }
+  },
+  "Haider Ali": {
+    "role": "Bowler",
+    "total_balls": 273,
+    "tiers": {
+      "low": 46,
+      "moderate": 147,
+      "high": 76,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Adverse Momentum": 150,
+      "Aggressive Opposition": 63,
+      "Normal": 47,
+      "Death Leverage": 10,
+      "Defending Chase": 3
+    }
+  },
+  "Haris Rauf": {
+    "role": "Bowler",
+    "total_balls": 1063,
+    "tiers": {
+      "low": 131,
+      "moderate": 553,
+      "high": 332,
+      "extreme": 47
+    },
+    "scenarios": {
+      "Adverse Momentum": 488,
+      "Aggressive Opposition": 264,
+      "Normal": 132,
+      "Death Leverage": 126,
+      "Defending Chase": 53
+    }
+  },
+  "Harpreet Brar": {
+    "role": "Bowler",
+    "total_balls": 679,
+    "tiers": {
+      "low": 77,
+      "moderate": 411,
+      "high": 180,
+      "extreme": 11
+    },
+    "scenarios": {
+      "Adverse Momentum": 329,
+      "Aggressive Opposition": 179,
+      "Normal": 77,
+      "Defending Chase": 62,
+      "Death Leverage": 32
+    }
+  },
+  "Harsh Dubey": {
+    "role": "Bowler",
+    "total_balls": 200,
+    "tiers": {
+      "low": 39,
+      "moderate": 64,
+      "high": 97,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 77,
+      "Aggressive Opposition": 66,
+      "Normal": 39,
+      "Defending Chase": 12,
+      "Death Leverage": 6
+    }
+  },
+  "Harshal Patel": {
+    "role": "Bowler",
+    "total_balls": 1748,
+    "tiers": {
+      "low": 145,
+      "moderate": 877,
+      "high": 569,
+      "extreme": 157
+    },
+    "scenarios": {
+      "Adverse Momentum": 895,
+      "Aggressive Opposition": 509,
+      "Death Leverage": 156,
+      "Normal": 146,
+      "Defending Chase": 42
+    }
+  },
+  "Harshit Rana": {
+    "role": "Bowler",
+    "total_balls": 940,
+    "tiers": {
+      "low": 140,
+      "moderate": 448,
+      "high": 308,
+      "extreme": 44
+    },
+    "scenarios": {
+      "Adverse Momentum": 408,
+      "Aggressive Opposition": 287,
+      "Normal": 140,
+      "Death Leverage": 56,
+      "Defending Chase": 49
+    }
+  },
+  "Hasan Mahmud": {
+    "role": "Bowler",
+    "total_balls": 412,
+    "tiers": {
+      "low": 91,
+      "moderate": 194,
+      "high": 117,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Adverse Momentum": 150,
+      "Aggressive Opposition": 101,
+      "Normal": 91,
+      "Defending Chase": 39,
+      "Death Leverage": 31
+    }
+  },
+  "Hayden Walsh": {
+    "role": "Bowler",
+    "total_balls": 189,
+    "tiers": {
+      "low": 44,
+      "moderate": 96,
+      "high": 47,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Adverse Momentum": 91,
+      "Aggressive Opposition": 48,
+      "Normal": 44,
+      "Death Leverage": 6
+    }
+  },
+  "Hrithik Shokeen": {
+    "role": "Bowler",
+    "total_balls": 213,
+    "tiers": {
+      "low": 33,
+      "moderate": 138,
+      "high": 39,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Adverse Momentum": 102,
+      "Aggressive Opposition": 65,
+      "Normal": 34,
+      "Defending Chase": 11,
+      "Death Leverage": 1
+    }
+  },
+  "Ish Sodhi": {
+    "role": "Bowler",
+    "total_balls": 1206,
+    "tiers": {
+      "low": 290,
+      "moderate": 693,
+      "high": 216,
+      "extreme": 7
+    },
+    "scenarios": {
+      "Adverse Momentum": 526,
+      "Aggressive Opposition": 329,
+      "Normal": 291,
+      "Death Leverage": 34,
+      "Defending Chase": 26
+    }
+  },
+  "Ishant Sharma": {
+    "role": "Bowler",
+    "total_balls": 456,
+    "tiers": {
+      "low": 73,
+      "moderate": 260,
+      "high": 102,
+      "extreme": 21
+    },
+    "scenarios": {
+      "Adverse Momentum": 246,
+      "Aggressive Opposition": 100,
+      "Normal": 73,
+      "Defending Chase": 30,
+      "Death Leverage": 7
+    }
+  },
+  "Jacob Duffy": {
+    "role": "Bowler",
+    "total_balls": 933,
+    "tiers": {
+      "low": 212,
+      "moderate": 496,
+      "high": 176,
+      "extreme": 49
+    },
+    "scenarios": {
+      "Adverse Momentum": 368,
+      "Aggressive Opposition": 234,
+      "Normal": 212,
+      "Defending Chase": 91,
+      "Death Leverage": 28
+    }
+  },
+  "Jagadeesha Suchith": {
+    "role": "Bowler",
+    "total_balls": 115,
+    "tiers": {
+      "low": 36,
+      "moderate": 54,
+      "high": 25,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 51,
+      "Normal": 36,
+      "Aggressive Opposition": 28
+    }
+  },
+  "Jamie Overton": {
+    "role": "Bowler",
+    "total_balls": 525,
+    "tiers": {
+      "low": 101,
+      "moderate": 265,
+      "high": 131,
+      "extreme": 28
+    },
+    "scenarios": {
+      "Adverse Momentum": 281,
+      "Normal": 103,
+      "Aggressive Opposition": 100,
+      "Death Leverage": 30,
+      "Defending Chase": 11
+    }
+  },
+  "Jason Behrendorff": {
+    "role": "Bowler",
+    "total_balls": 455,
+    "tiers": {
+      "low": 72,
+      "moderate": 253,
+      "high": 91,
+      "extreme": 39
+    },
+    "scenarios": {
+      "Adverse Momentum": 198,
+      "Aggressive Opposition": 137,
+      "Normal": 72,
+      "Defending Chase": 36,
+      "Death Leverage": 12
+    }
+  },
+  "Jasprit Bumrah": {
+    "role": "Bowler",
+    "total_balls": 1780,
+    "tiers": {
+      "low": 245,
+      "moderate": 833,
+      "high": 597,
+      "extreme": 105
+    },
+    "scenarios": {
+      "Adverse Momentum": 810,
+      "Aggressive Opposition": 495,
+      "Normal": 250,
+      "Death Leverage": 131,
+      "Defending Chase": 94
+    }
+  },
+  "Jayden Seales": {
+    "role": "Bowler",
+    "total_balls": 186,
+    "tiers": {
+      "low": 29,
+      "moderate": 95,
+      "high": 50,
+      "extreme": 12
+    },
+    "scenarios": {
+      "Adverse Momentum": 82,
+      "Aggressive Opposition": 38,
+      "Defending Chase": 32,
+      "Normal": 30,
+      "Death Leverage": 4
+    }
+  },
+  "Jaydev Unadkat": {
+    "role": "Bowler",
+    "total_balls": 599,
+    "tiers": {
+      "low": 80,
+      "moderate": 298,
+      "high": 191,
+      "extreme": 30
+    },
+    "scenarios": {
+      "Adverse Momentum": 282,
+      "Aggressive Opposition": 173,
+      "Normal": 81,
+      "Death Leverage": 36,
+      "Defending Chase": 27
+    }
+  },
+  "Jediah Blades": {
+    "role": "Bowler",
+    "total_balls": 131,
+    "tiers": {
+      "low": 25,
+      "moderate": 76,
+      "high": 26,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Adverse Momentum": 44,
+      "Aggressive Opposition": 38,
+      "Normal": 25,
+      "Death Leverage": 15,
+      "Defending Chase": 9
+    }
+  },
+  "Jhye Richardson": {
+    "role": "Bowler",
+    "total_balls": 124,
+    "tiers": {
+      "low": 21,
+      "moderate": 77,
+      "high": 26,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 44,
+      "Aggressive Opposition": 33,
+      "Normal": 21,
+      "Death Leverage": 13,
+      "Defending Chase": 13
+    }
+  },
+  "Jofra Archer": {
+    "role": "Bowler",
+    "total_balls": 1320,
+    "tiers": {
+      "low": 229,
+      "moderate": 641,
+      "high": 337,
+      "extreme": 113
+    },
+    "scenarios": {
+      "Adverse Momentum": 593,
+      "Aggressive Opposition": 348,
+      "Normal": 230,
+      "Defending Chase": 92,
+      "Death Leverage": 57
+    }
+  },
+  "Josh Hazlewood": {
+    "role": "Bowler",
+    "total_balls": 1515,
+    "tiers": {
+      "low": 249,
+      "moderate": 885,
+      "high": 340,
+      "extreme": 41
+    },
+    "scenarios": {
+      "Adverse Momentum": 693,
+      "Aggressive Opposition": 323,
+      "Normal": 250,
+      "Death Leverage": 135,
+      "Defending Chase": 114
+    }
+  },
+  "Josh Tongue": {
+    "role": "Bowler",
+    "total_balls": 126,
+    "tiers": {
+      "low": 33,
+      "moderate": 79,
+      "high": 14,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 52,
+      "Normal": 33,
+      "Aggressive Opposition": 24,
+      "Death Leverage": 16,
+      "Defending Chase": 1
+    }
+  },
+  "Joshua Little": {
+    "role": "Bowler",
+    "total_balls": 815,
+    "tiers": {
+      "low": 181,
+      "moderate": 459,
+      "high": 153,
+      "extreme": 22
+    },
+    "scenarios": {
+      "Adverse Momentum": 377,
+      "Normal": 181,
+      "Aggressive Opposition": 171,
+      "Death Leverage": 51,
+      "Defending Chase": 35
+    }
+  },
+  "Junaid Siddique": {
+    "role": "Bowler",
+    "total_balls": 354,
+    "tiers": {
+      "low": 72,
+      "moderate": 159,
+      "high": 85,
+      "extreme": 38
+    },
+    "scenarios": {
+      "Adverse Momentum": 161,
+      "Aggressive Opposition": 74,
+      "Normal": 74,
+      "Death Leverage": 23,
+      "Defending Chase": 22
+    }
+  },
+  "Kagiso Rabada": {
+    "role": "Bowler",
+    "total_balls": 1616,
+    "tiers": {
+      "low": 169,
+      "moderate": 833,
+      "high": 504,
+      "extreme": 110
+    },
+    "scenarios": {
+      "Adverse Momentum": 742,
+      "Aggressive Opposition": 510,
+      "Normal": 169,
+      "Defending Chase": 125,
+      "Death Leverage": 70
+    }
+  },
+  "Karn Sharma": {
+    "role": "Bowler",
+    "total_balls": 372,
+    "tiers": {
+      "low": 86,
+      "moderate": 221,
+      "high": 63,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Adverse Momentum": 180,
+      "Aggressive Opposition": 92,
+      "Normal": 86,
+      "Defending Chase": 14
+    }
+  },
+  "Kartik Tyagi": {
+    "role": "Bowler",
+    "total_balls": 441,
+    "tiers": {
+      "low": 22,
+      "moderate": 176,
+      "high": 223,
+      "extreme": 20
+    },
+    "scenarios": {
+      "Adverse Momentum": 205,
+      "Aggressive Opposition": 156,
+      "Death Leverage": 42,
+      "Normal": 22,
+      "Defending Chase": 16
+    }
+  },
+  "Keshav Maharaj": {
+    "role": "Bowler",
+    "total_balls": 611,
+    "tiers": {
+      "low": 137,
+      "moderate": 314,
+      "high": 151,
+      "extreme": 9
+    },
+    "scenarios": {
+      "Adverse Momentum": 271,
+      "Aggressive Opposition": 162,
+      "Normal": 138,
+      "Defending Chase": 36,
+      "Death Leverage": 4
+    }
+  },
+  "Khaleel Ahmed": {
+    "role": "Bowler",
+    "total_balls": 1267,
+    "tiers": {
+      "low": 186,
+      "moderate": 651,
+      "high": 363,
+      "extreme": 67
+    },
+    "scenarios": {
+      "Adverse Momentum": 593,
+      "Aggressive Opposition": 287,
+      "Normal": 187,
+      "Defending Chase": 127,
+      "Death Leverage": 73
+    }
+  },
+  "Krishnappa Gowtham": {
+    "role": "Bowler",
+    "total_balls": 185,
+    "tiers": {
+      "low": 51,
+      "moderate": 85,
+      "high": 49,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 82,
+      "Normal": 51,
+      "Aggressive Opposition": 32,
+      "Defending Chase": 19,
+      "Death Leverage": 1
+    }
+  },
+  "Kuldeep Sen": {
+    "role": "Bowler",
+    "total_balls": 255,
+    "tiers": {
+      "low": 23,
+      "moderate": 153,
+      "high": 68,
+      "extreme": 11
+    },
+    "scenarios": {
+      "Adverse Momentum": 124,
+      "Aggressive Opposition": 64,
+      "Defending Chase": 37,
+      "Normal": 23,
+      "Death Leverage": 7
+    }
+  },
+  "Kuldeep Yadav": {
+    "role": "Bowler",
+    "total_balls": 1965,
+    "tiers": {
+      "low": 379,
+      "moderate": 1083,
+      "high": 470,
+      "extreme": 33
+    },
+    "scenarios": {
+      "Adverse Momentum": 876,
+      "Aggressive Opposition": 570,
+      "Normal": 380,
+      "Death Leverage": 74,
+      "Defending Chase": 65
+    }
+  },
+  "Kumar Kartikeya Singh": {
+    "role": "Bowler",
+    "total_balls": 290,
+    "tiers": {
+      "low": 31,
+      "moderate": 146,
+      "high": 107,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Adverse Momentum": 163,
+      "Aggressive Opposition": 89,
+      "Normal": 32,
+      "Death Leverage": 6
+    }
+  },
+  "Kwena Maphaka": {
+    "role": "Bowler",
+    "total_balls": 333,
+    "tiers": {
+      "low": 26,
+      "moderate": 164,
+      "high": 119,
+      "extreme": 24
+    },
+    "scenarios": {
+      "Adverse Momentum": 142,
+      "Aggressive Opposition": 127,
+      "Normal": 26,
+      "Death Leverage": 20,
+      "Defending Chase": 18
+    }
+  },
+  "Kyle Jamieson": {
+    "role": "Bowler",
+    "total_balls": 668,
+    "tiers": {
+      "low": 120,
+      "moderate": 326,
+      "high": 188,
+      "extreme": 34
+    },
+    "scenarios": {
+      "Adverse Momentum": 322,
+      "Aggressive Opposition": 156,
+      "Normal": 121,
+      "Defending Chase": 36,
+      "Death Leverage": 33
+    }
+  },
+  "Kyle Klein": {
+    "role": "Bowler",
+    "total_balls": 173,
+    "tiers": {
+      "low": 27,
+      "moderate": 113,
+      "high": 26,
+      "extreme": 7
+    },
+    "scenarios": {
+      "Adverse Momentum": 73,
+      "Aggressive Opposition": 46,
+      "Normal": 27,
+      "Death Leverage": 15,
+      "Defending Chase": 12
+    }
+  },
+  "Kyle Mayers": {
+    "role": "Bowler",
+    "total_balls": 146,
+    "tiers": {
+      "low": 54,
+      "moderate": 62,
+      "high": 26,
+      "extreme": 4
+    },
+    "scenarios": {
+      "Adverse Momentum": 68,
+      "Normal": 54,
+      "Defending Chase": 14,
+      "Aggressive Opposition": 10
+    }
+  },
+  "Liam Dawson": {
+    "role": "Bowler",
+    "total_balls": 424,
+    "tiers": {
+      "low": 96,
+      "moderate": 233,
+      "high": 90,
+      "extreme": 5
+    },
+    "scenarios": {
+      "Adverse Momentum": 206,
+      "Aggressive Opposition": 98,
+      "Normal": 96,
+      "Defending Chase": 19,
+      "Death Leverage": 5
+    }
+  },
+  "Lizaad Williams": {
+    "role": "Bowler",
+    "total_balls": 280,
+    "tiers": {
+      "low": 51,
+      "moderate": 112,
+      "high": 105,
+      "extreme": 12
+    },
+    "scenarios": {
+      "Adverse Momentum": 111,
+      "Aggressive Opposition": 81,
+      "Normal": 51,
+      "Death Leverage": 26,
+      "Defending Chase": 11
+    }
+  },
+  "Lockie Ferguson": {
+    "role": "Bowler",
+    "total_balls": 1138,
+    "tiers": {
+      "low": 113,
+      "moderate": 597,
+      "high": 386,
+      "extreme": 42
+    },
+    "scenarios": {
+      "Adverse Momentum": 557,
+      "Aggressive Opposition": 333,
+      "Normal": 114,
+      "Death Leverage": 80,
+      "Defending Chase": 54
+    }
+  },
+  "Logan van Beek": {
+    "role": "Bowler",
+    "total_balls": 138,
+    "tiers": {
+      "low": 23,
+      "moderate": 99,
+      "high": 16,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 55,
+      "Aggressive Opposition": 29,
+      "Normal": 23,
+      "Death Leverage": 20,
+      "Defending Chase": 11
+    }
+  },
+  "Luke Jongwe": {
+    "role": "Bowler",
+    "total_balls": 354,
+    "tiers": {
+      "low": 36,
+      "moderate": 209,
+      "high": 82,
+      "extreme": 27
+    },
+    "scenarios": {
+      "Adverse Momentum": 154,
+      "Aggressive Opposition": 98,
+      "Defending Chase": 37,
+      "Normal": 36,
+      "Death Leverage": 29
+    }
+  },
+  "Luke Wood": {
+    "role": "Bowler",
+    "total_balls": 336,
+    "tiers": {
+      "low": 56,
+      "moderate": 189,
+      "high": 68,
+      "extreme": 23
+    },
+    "scenarios": {
+      "Adverse Momentum": 155,
+      "Aggressive Opposition": 92,
+      "Normal": 57,
+      "Death Leverage": 24,
+      "Defending Chase": 8
+    }
+  },
+  "Lungi Ngidi": {
+    "role": "Bowler",
+    "total_balls": 829,
+    "tiers": {
+      "low": 87,
+      "moderate": 420,
+      "high": 244,
+      "extreme": 78
+    },
+    "scenarios": {
+      "Adverse Momentum": 353,
+      "Aggressive Opposition": 280,
+      "Normal": 88,
+      "Death Leverage": 61,
+      "Defending Chase": 47
+    }
+  },
+  "Maheesh Theekshana": {
+    "role": "Bowler",
+    "total_balls": 2321,
+    "tiers": {
+      "low": 379,
+      "moderate": 1237,
+      "high": 650,
+      "extreme": 55
+    },
+    "scenarios": {
+      "Adverse Momentum": 1141,
+      "Aggressive Opposition": 571,
+      "Normal": 381,
+      "Defending Chase": 132,
+      "Death Leverage": 96
+    }
+  },
+  "Manimaran Siddharth": {
+    "role": "Bowler",
+    "total_balls": 193,
+    "tiers": {
+      "low": 25,
+      "moderate": 89,
+      "high": 74,
+      "extreme": 5
+    },
+    "scenarios": {
+      "Adverse Momentum": 69,
+      "Aggressive Opposition": 60,
+      "Defending Chase": 32,
+      "Normal": 25,
+      "Death Leverage": 7
+    }
+  },
+  "Mark Wood": {
+    "role": "Bowler",
+    "total_balls": 299,
+    "tiers": {
+      "low": 42,
+      "moderate": 168,
+      "high": 73,
+      "extreme": 16
+    },
+    "scenarios": {
+      "Adverse Momentum": 166,
+      "Aggressive Opposition": 52,
+      "Normal": 42,
+      "Death Leverage": 20,
+      "Defending Chase": 19
+    }
+  },
+  "Matheesha Pathirana": {
+    "role": "Bowler",
+    "total_balls": 1279,
+    "tiers": {
+      "low": 172,
+      "moderate": 648,
+      "high": 404,
+      "extreme": 55
+    },
+    "scenarios": {
+      "Adverse Momentum": 645,
+      "Aggressive Opposition": 258,
+      "Normal": 174,
+      "Death Leverage": 169,
+      "Defending Chase": 33
+    }
+  },
+  "Matt Henry": {
+    "role": "Bowler",
+    "total_balls": 636,
+    "tiers": {
+      "low": 114,
+      "moderate": 333,
+      "high": 174,
+      "extreme": 15
+    },
+    "scenarios": {
+      "Adverse Momentum": 275,
+      "Aggressive Opposition": 132,
+      "Normal": 114,
+      "Defending Chase": 74,
+      "Death Leverage": 41
+    }
+  },
+  "Matthew Forde": {
+    "role": "Bowler",
+    "total_balls": 427,
+    "tiers": {
+      "low": 60,
+      "moderate": 244,
+      "high": 99,
+      "extreme": 24
+    },
+    "scenarios": {
+      "Adverse Momentum": 191,
+      "Aggressive Opposition": 104,
+      "Normal": 60,
+      "Defending Chase": 56,
+      "Death Leverage": 16
+    }
+  },
+  "Matthew Humphreys": {
+    "role": "Bowler",
+    "total_balls": 315,
+    "tiers": {
+      "low": 70,
+      "moderate": 181,
+      "high": 64,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 107,
+      "Normal": 72,
+      "Defending Chase": 69,
+      "Aggressive Opposition": 57,
+      "Death Leverage": 10
+    }
+  },
+  "Mayank Markande": {
+    "role": "Bowler",
+    "total_balls": 445,
+    "tiers": {
+      "low": 53,
+      "moderate": 250,
+      "high": 127,
+      "extreme": 15
+    },
+    "scenarios": {
+      "Adverse Momentum": 210,
+      "Aggressive Opposition": 153,
+      "Normal": 53,
+      "Death Leverage": 18,
+      "Defending Chase": 11
+    }
+  },
+  "Mayank Yadav": {
+    "role": "Bowler",
+    "total_balls": 526,
+    "tiers": {
+      "low": 155,
+      "moderate": 249,
+      "high": 98,
+      "extreme": 24
+    },
+    "scenarios": {
+      "Adverse Momentum": 182,
+      "Normal": 157,
+      "Aggressive Opposition": 138,
+      "Death Leverage": 32,
+      "Defending Chase": 17
+    }
+  },
+  "Mitchell Starc": {
+    "role": "Bowler",
+    "total_balls": 860,
+    "tiers": {
+      "low": 168,
+      "moderate": 442,
+      "high": 221,
+      "extreme": 29
+    },
+    "scenarios": {
+      "Adverse Momentum": 355,
+      "Aggressive Opposition": 185,
+      "Normal": 169,
+      "Defending Chase": 84,
+      "Death Leverage": 67
+    }
+  },
+  "Mohammad Ghazanfar": {
+    "role": "Bowler",
+    "total_balls": 108,
+    "tiers": {
+      "low": 36,
+      "moderate": 63,
+      "high": 8,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Normal": 36,
+      "Aggressive Opposition": 34,
+      "Adverse Momentum": 30,
+      "Defending Chase": 8
+    }
+  },
+  "Mohammad Hasnain": {
+    "role": "Bowler",
+    "total_balls": 238,
+    "tiers": {
+      "low": 45,
+      "moderate": 111,
+      "high": 64,
+      "extreme": 18
+    },
+    "scenarios": {
+      "Adverse Momentum": 101,
+      "Aggressive Opposition": 62,
+      "Normal": 45,
+      "Defending Chase": 16,
+      "Death Leverage": 14
+    }
+  },
+  "Mohammad Rishad Hossain": {
+    "role": "Bowler",
+    "total_balls": 1033,
+    "tiers": {
+      "low": 286,
+      "moderate": 534,
+      "high": 207,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Adverse Momentum": 476,
+      "Normal": 287,
+      "Aggressive Opposition": 188,
+      "Death Leverage": 43,
+      "Defending Chase": 39
+    }
+  },
+  "Mohammad Saifuddin": {
+    "role": "Bowler",
+    "total_balls": 475,
+    "tiers": {
+      "low": 58,
+      "moderate": 266,
+      "high": 128,
+      "extreme": 23
+    },
+    "scenarios": {
+      "Adverse Momentum": 208,
+      "Aggressive Opposition": 109,
+      "Death Leverage": 60,
+      "Normal": 59,
+      "Defending Chase": 39
+    }
+  },
+  "Mohammad Wasim": {
+    "role": "Bowler",
+    "total_balls": 374,
+    "tiers": {
+      "low": 27,
+      "moderate": 207,
+      "high": 124,
+      "extreme": 16
+    },
+    "scenarios": {
+      "Adverse Momentum": 164,
+      "Aggressive Opposition": 111,
+      "Death Leverage": 48,
+      "Normal": 28,
+      "Defending Chase": 23
+    }
+  },
+  "Mohammed Shami": {
+    "role": "Bowler",
+    "total_balls": 1329,
+    "tiers": {
+      "low": 328,
+      "moderate": 691,
+      "high": 269,
+      "extreme": 41
+    },
+    "scenarios": {
+      "Adverse Momentum": 427,
+      "Normal": 328,
+      "Aggressive Opposition": 301,
+      "Defending Chase": 201,
+      "Death Leverage": 72
+    }
+  },
+  "Mohammed Siraj": {
+    "role": "Bowler",
+    "total_balls": 1925,
+    "tiers": {
+      "low": 341,
+      "moderate": 996,
+      "high": 464,
+      "extreme": 124
+    },
+    "scenarios": {
+      "Adverse Momentum": 880,
+      "Aggressive Opposition": 454,
+      "Normal": 342,
+      "Defending Chase": 186,
+      "Death Leverage": 63
+    }
+  },
+  "Mohit Sharma": {
+    "role": "Bowler",
+    "total_balls": 676,
+    "tiers": {
+      "low": 75,
+      "moderate": 339,
+      "high": 192,
+      "extreme": 70
+    },
+    "scenarios": {
+      "Adverse Momentum": 324,
+      "Aggressive Opposition": 173,
+      "Death Leverage": 77,
+      "Normal": 75,
+      "Defending Chase": 27
+    }
+  },
+  "Mohsin Khan": {
+    "role": "Bowler",
+    "total_balls": 678,
+    "tiers": {
+      "low": 92,
+      "moderate": 367,
+      "high": 177,
+      "extreme": 42
+    },
+    "scenarios": {
+      "Adverse Momentum": 268,
+      "Aggressive Opposition": 196,
+      "Normal": 92,
+      "Defending Chase": 62,
+      "Death Leverage": 60
+    }
+  },
+  "Muhammad Jawadullah": {
+    "role": "Bowler",
+    "total_balls": 214,
+    "tiers": {
+      "low": 25,
+      "moderate": 101,
+      "high": 59,
+      "extreme": 29
+    },
+    "scenarios": {
+      "Adverse Momentum": 123,
+      "Aggressive Opposition": 45,
+      "Normal": 25,
+      "Death Leverage": 21
+    }
+  },
+  "Muhammad Rohid": {
+    "role": "Bowler",
+    "total_balls": 121,
+    "tiers": {
+      "low": 25,
+      "moderate": 69,
+      "high": 17,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Adverse Momentum": 59,
+      "Normal": 25,
+      "Aggressive Opposition": 23,
+      "Death Leverage": 8,
+      "Defending Chase": 6
+    }
+  },
+  "Mujeeb Ur Rahman": {
+    "role": "Bowler",
+    "total_balls": 849,
+    "tiers": {
+      "low": 148,
+      "moderate": 573,
+      "high": 128,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 338,
+      "Aggressive Opposition": 192,
+      "Defending Chase": 157,
+      "Normal": 148,
+      "Death Leverage": 14
+    }
+  },
+  "Mukesh Choudhary": {
+    "role": "Bowler",
+    "total_balls": 512,
+    "tiers": {
+      "low": 97,
+      "moderate": 258,
+      "high": 129,
+      "extreme": 28
+    },
+    "scenarios": {
+      "Adverse Momentum": 178,
+      "Aggressive Opposition": 152,
+      "Normal": 99,
+      "Defending Chase": 67,
+      "Death Leverage": 16
+    }
+  },
+  "Mukesh Kumar": {
+    "role": "Bowler",
+    "total_balls": 1227,
+    "tiers": {
+      "low": 136,
+      "moderate": 645,
+      "high": 351,
+      "extreme": 95
+    },
+    "scenarios": {
+      "Adverse Momentum": 583,
+      "Aggressive Opposition": 345,
+      "Normal": 137,
+      "Death Leverage": 100,
+      "Defending Chase": 62
+    }
+  },
+  "Mustafizur Rahman": {
+    "role": "Bowler",
+    "total_balls": 1646,
+    "tiers": {
+      "low": 237,
+      "moderate": 828,
+      "high": 472,
+      "extreme": 109
+    },
+    "scenarios": {
+      "Adverse Momentum": 739,
+      "Aggressive Opposition": 347,
+      "Normal": 238,
+      "Death Leverage": 217,
+      "Defending Chase": 105
+    }
+  },
+  "Nandre Burger": {
+    "role": "Bowler",
+    "total_balls": 468,
+    "tiers": {
+      "low": 60,
+      "moderate": 255,
+      "high": 147,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Adverse Momentum": 206,
+      "Aggressive Opposition": 125,
+      "Normal": 60,
+      "Defending Chase": 50,
+      "Death Leverage": 27
+    }
+  },
+  "Naseem Shah": {
+    "role": "Bowler",
+    "total_balls": 608,
+    "tiers": {
+      "low": 131,
+      "moderate": 314,
+      "high": 153,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Adverse Momentum": 230,
+      "Normal": 133,
+      "Aggressive Opposition": 110,
+      "Defending Chase": 83,
+      "Death Leverage": 52
+    }
+  },
+  "Nasum Ahmed": {
+    "role": "Bowler",
+    "total_balls": 607,
+    "tiers": {
+      "low": 128,
+      "moderate": 328,
+      "high": 151,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 279,
+      "Aggressive Opposition": 151,
+      "Normal": 131,
+      "Defending Chase": 40,
+      "Death Leverage": 6
+    }
+  },
+  "Nathan Ellis": {
+    "role": "Bowler",
+    "total_balls": 959,
+    "tiers": {
+      "low": 85,
+      "moderate": 455,
+      "high": 376,
+      "extreme": 43
+    },
+    "scenarios": {
+      "Adverse Momentum": 457,
+      "Aggressive Opposition": 274,
+      "Death Leverage": 127,
+      "Normal": 86,
+      "Defending Chase": 15
+    }
+  },
+  "Naveen ul Haq": {
+    "role": "Bowler",
+    "total_balls": 824,
+    "tiers": {
+      "low": 134,
+      "moderate": 395,
+      "high": 269,
+      "extreme": 26
+    },
+    "scenarios": {
+      "Adverse Momentum": 360,
+      "Aggressive Opposition": 163,
+      "Normal": 134,
+      "Death Leverage": 91,
+      "Defending Chase": 76
+    }
+  },
+  "Noor Ahmad": {
+    "role": "Bowler",
+    "total_balls": 1537,
+    "tiers": {
+      "low": 368,
+      "moderate": 830,
+      "high": 323,
+      "extreme": 16
+    },
+    "scenarios": {
+      "Adverse Momentum": 666,
+      "Aggressive Opposition": 398,
+      "Normal": 370,
+      "Defending Chase": 54,
+      "Death Leverage": 49
+    }
+  },
+  "Nqabayomzi Peter": {
+    "role": "Bowler",
+    "total_balls": 170,
+    "tiers": {
+      "low": 26,
+      "moderate": 78,
+      "high": 66,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 89,
+      "Aggressive Opposition": 46,
+      "Normal": 26,
+      "Death Leverage": 6,
+      "Defending Chase": 3
+    }
+  },
+  "Nuwan Thushara": {
+    "role": "Bowler",
+    "total_balls": 824,
+    "tiers": {
+      "low": 169,
+      "moderate": 384,
+      "high": 235,
+      "extreme": 36
+    },
+    "scenarios": {
+      "Adverse Momentum": 354,
+      "Normal": 169,
+      "Aggressive Opposition": 157,
+      "Death Leverage": 80,
+      "Defending Chase": 64
+    }
+  },
+  "Obed McCoy": {
+    "role": "Bowler",
+    "total_balls": 692,
+    "tiers": {
+      "low": 74,
+      "moderate": 391,
+      "high": 179,
+      "extreme": 48
+    },
+    "scenarios": {
+      "Adverse Momentum": 327,
+      "Death Leverage": 130,
+      "Aggressive Opposition": 112,
+      "Normal": 74,
+      "Defending Chase": 49
+    }
+  },
+  "Odean Smith": {
+    "role": "Bowler",
+    "total_balls": 414,
+    "tiers": {
+      "low": 25,
+      "moderate": 237,
+      "high": 139,
+      "extreme": 13
+    },
+    "scenarios": {
+      "Adverse Momentum": 195,
+      "Aggressive Opposition": 124,
+      "Death Leverage": 54,
+      "Normal": 25,
+      "Defending Chase": 16
+    }
+  },
+  "Ottneil Baartman": {
+    "role": "Bowler",
+    "total_balls": 343,
+    "tiers": {
+      "low": 22,
+      "moderate": 205,
+      "high": 91,
+      "extreme": 25
+    },
+    "scenarios": {
+      "Adverse Momentum": 189,
+      "Aggressive Opposition": 88,
+      "Death Leverage": 35,
+      "Normal": 22,
+      "Defending Chase": 9
+    }
+  },
+  "Patrick Cummins": {
+    "role": "Bowler",
+    "total_balls": 1269,
+    "tiers": {
+      "low": 164,
+      "moderate": 655,
+      "high": 366,
+      "extreme": 84
+    },
+    "scenarios": {
+      "Adverse Momentum": 533,
+      "Aggressive Opposition": 383,
+      "Normal": 164,
+      "Defending Chase": 109,
+      "Death Leverage": 80
+    }
+  },
+  "Paul van Meekeren": {
+    "role": "Bowler",
+    "total_balls": 196,
+    "tiers": {
+      "low": 42,
+      "moderate": 122,
+      "high": 32,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 106,
+      "Normal": 42,
+      "Aggressive Opposition": 35,
+      "Death Leverage": 13
+    }
+  },
+  "Piyush Chawla": {
+    "role": "Bowler",
+    "total_balls": 586,
+    "tiers": {
+      "low": 80,
+      "moderate": 280,
+      "high": 221,
+      "extreme": 5
+    },
+    "scenarios": {
+      "Adverse Momentum": 297,
+      "Aggressive Opposition": 199,
+      "Normal": 81,
+      "Defending Chase": 6,
+      "Death Leverage": 3
+    }
+  },
+  "Praful Hinge": {
+    "role": "Bowler",
+    "total_balls": 168,
+    "tiers": {
+      "low": 25,
+      "moderate": 57,
+      "high": 81,
+      "extreme": 5
+    },
+    "scenarios": {
+      "Adverse Momentum": 62,
+      "Aggressive Opposition": 55,
+      "Normal": 25,
+      "Death Leverage": 21,
+      "Defending Chase": 5
+    }
+  },
+  "Prasidh Krishna": {
+    "role": "Bowler",
+    "total_balls": 1234,
+    "tiers": {
+      "low": 154,
+      "moderate": 615,
+      "high": 371,
+      "extreme": 94
+    },
+    "scenarios": {
+      "Adverse Momentum": 579,
+      "Aggressive Opposition": 337,
+      "Normal": 155,
+      "Defending Chase": 93,
+      "Death Leverage": 70
+    }
+  },
+  "Prince Yadav": {
+    "role": "Bowler",
+    "total_balls": 747,
+    "tiers": {
+      "low": 47,
+      "moderate": 358,
+      "high": 273,
+      "extreme": 69
+    },
+    "scenarios": {
+      "Adverse Momentum": 337,
+      "Aggressive Opposition": 264,
+      "Death Leverage": 61,
+      "Normal": 47,
+      "Defending Chase": 38
+    }
+  },
+  "Rahul Chahar": {
+    "role": "Bowler",
+    "total_balls": 811,
+    "tiers": {
+      "low": 109,
+      "moderate": 475,
+      "high": 207,
+      "extreme": 20
+    },
+    "scenarios": {
+      "Adverse Momentum": 419,
+      "Aggressive Opposition": 210,
+      "Normal": 110,
+      "Defending Chase": 44,
+      "Death Leverage": 28
+    }
+  },
+  "Rasikh Salam": {
+    "role": "Bowler",
+    "total_balls": 490,
+    "tiers": {
+      "low": 30,
+      "moderate": 259,
+      "high": 167,
+      "extreme": 34
+    },
+    "scenarios": {
+      "Adverse Momentum": 263,
+      "Aggressive Opposition": 166,
+      "Death Leverage": 31,
+      "Normal": 30
+    }
+  },
+  "Ravi Bishnoi": {
+    "role": "Bowler",
+    "total_balls": 2429,
+    "tiers": {
+      "low": 458,
+      "moderate": 1372,
+      "high": 580,
+      "extreme": 19
+    },
+    "scenarios": {
+      "Adverse Momentum": 1198,
+      "Aggressive Opposition": 561,
+      "Normal": 460,
+      "Defending Chase": 134,
+      "Death Leverage": 76
+    }
+  },
+  "Reece Topley": {
+    "role": "Bowler",
+    "total_balls": 639,
+    "tiers": {
+      "low": 101,
+      "moderate": 371,
+      "high": 118,
+      "extreme": 49
+    },
+    "scenarios": {
+      "Adverse Momentum": 225,
+      "Aggressive Opposition": 178,
+      "Normal": 101,
+      "Death Leverage": 69,
+      "Defending Chase": 66
+    }
+  },
+  "Rehan Ahmed": {
+    "role": "Bowler",
+    "total_balls": 211,
+    "tiers": {
+      "low": 35,
+      "moderate": 138,
+      "high": 33,
+      "extreme": 5
+    },
+    "scenarios": {
+      "Adverse Momentum": 86,
+      "Aggressive Opposition": 62,
+      "Normal": 35,
+      "Defending Chase": 22,
+      "Death Leverage": 6
+    }
+  },
+  "Richard Ngarava": {
+    "role": "Bowler",
+    "total_balls": 889,
+    "tiers": {
+      "low": 125,
+      "moderate": 485,
+      "high": 239,
+      "extreme": 40
+    },
+    "scenarios": {
+      "Adverse Momentum": 333,
+      "Aggressive Opposition": 189,
+      "Defending Chase": 153,
+      "Normal": 125,
+      "Death Leverage": 89
+    }
+  },
+  "Riley Meredith": {
+    "role": "Bowler",
+    "total_balls": 331,
+    "tiers": {
+      "low": 25,
+      "moderate": 196,
+      "high": 86,
+      "extreme": 24
+    },
+    "scenarios": {
+      "Adverse Momentum": 176,
+      "Aggressive Opposition": 86,
+      "Death Leverage": 34,
+      "Normal": 25,
+      "Defending Chase": 10
+    }
+  },
+  "Rishi Dhawan": {
+    "role": "Bowler",
+    "total_balls": 180,
+    "tiers": {
+      "low": 32,
+      "moderate": 117,
+      "high": 31,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Aggressive Opposition": 65,
+      "Adverse Momentum": 58,
+      "Normal": 32,
+      "Defending Chase": 19,
+      "Death Leverage": 6
+    }
+  },
+  "Sai Kishore": {
+    "role": "Bowler",
+    "total_balls": 477,
+    "tiers": {
+      "low": 63,
+      "moderate": 212,
+      "high": 187,
+      "extreme": 15
+    },
+    "scenarios": {
+      "Adverse Momentum": 248,
+      "Aggressive Opposition": 149,
+      "Normal": 63,
+      "Death Leverage": 11,
+      "Defending Chase": 6
+    }
+  },
+  "Sakib Hussain": {
+    "role": "Bowler",
+    "total_balls": 274,
+    "tiers": {
+      "low": 29,
+      "moderate": 149,
+      "high": 90,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Adverse Momentum": 148,
+      "Aggressive Opposition": 60,
+      "Death Leverage": 36,
+      "Normal": 30
+    }
+  },
+  "Salman Mirza": {
+    "role": "Bowler",
+    "total_balls": 339,
+    "tiers": {
+      "low": 102,
+      "moderate": 187,
+      "high": 50,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Normal": 103,
+      "Adverse Momentum": 101,
+      "Aggressive Opposition": 78,
+      "Death Leverage": 33,
+      "Defending Chase": 24
+    }
+  },
+  "Sandeep Sharma": {
+    "role": "Bowler",
+    "total_balls": 1018,
+    "tiers": {
+      "low": 135,
+      "moderate": 478,
+      "high": 315,
+      "extreme": 90
+    },
+    "scenarios": {
+      "Adverse Momentum": 488,
+      "Aggressive Opposition": 243,
+      "Normal": 135,
+      "Death Leverage": 105,
+      "Defending Chase": 47
+    }
+  },
+  "Saqib Mahmood": {
+    "role": "Bowler",
+    "total_balls": 243,
+    "tiers": {
+      "low": 42,
+      "moderate": 132,
+      "high": 66,
+      "extreme": 3
+    },
+    "scenarios": {
+      "Adverse Momentum": 105,
+      "Aggressive Opposition": 67,
+      "Normal": 42,
+      "Defending Chase": 17,
+      "Death Leverage": 12
+    }
+  },
+  "Sean Abbott": {
+    "role": "Bowler",
+    "total_balls": 476,
+    "tiers": {
+      "low": 33,
+      "moderate": 228,
+      "high": 196,
+      "extreme": 19
+    },
+    "scenarios": {
+      "Adverse Momentum": 258,
+      "Aggressive Opposition": 140,
+      "Normal": 34,
+      "Death Leverage": 34,
+      "Defending Chase": 10
+    }
+  },
+  "Sean Williams": {
+    "role": "Bowler",
+    "total_balls": 165,
+    "tiers": {
+      "low": 52,
+      "moderate": 107,
+      "high": 6,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 66,
+      "Normal": 52,
+      "Aggressive Opposition": 26,
+      "Defending Chase": 18,
+      "Death Leverage": 3
+    }
+  },
+  "Shaheen Afridi": {
+    "role": "Bowler",
+    "total_balls": 1036,
+    "tiers": {
+      "low": 200,
+      "moderate": 587,
+      "high": 216,
+      "extreme": 33
+    },
+    "scenarios": {
+      "Adverse Momentum": 371,
+      "Normal": 200,
+      "Defending Chase": 180,
+      "Aggressive Opposition": 178,
+      "Death Leverage": 107
+    }
+  },
+  "Shamar Joseph": {
+    "role": "Bowler",
+    "total_balls": 515,
+    "tiers": {
+      "low": 62,
+      "moderate": 258,
+      "high": 157,
+      "extreme": 38
+    },
+    "scenarios": {
+      "Adverse Momentum": 216,
+      "Aggressive Opposition": 143,
+      "Death Leverage": 72,
+      "Normal": 62,
+      "Defending Chase": 22
+    }
+  },
+  "Sharafuddin Ashraf": {
+    "role": "Bowler",
+    "total_balls": 118,
+    "tiers": {
+      "low": 33,
+      "moderate": 51,
+      "high": 34,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 43,
+      "Aggressive Opposition": 34,
+      "Normal": 33,
+      "Defending Chase": 8
+    }
+  },
+  "Sheldon Cottrell": {
+    "role": "Bowler",
+    "total_balls": 229,
+    "tiers": {
+      "low": 36,
+      "moderate": 142,
+      "high": 49,
+      "extreme": 2
+    },
+    "scenarios": {
+      "Adverse Momentum": 102,
+      "Aggressive Opposition": 67,
+      "Normal": 36,
+      "Defending Chase": 22,
+      "Death Leverage": 2
+    }
+  },
+  "Shivam Mavi": {
+    "role": "Bowler",
+    "total_balls": 232,
+    "tiers": {
+      "low": 43,
+      "moderate": 113,
+      "high": 58,
+      "extreme": 18
+    },
+    "scenarios": {
+      "Adverse Momentum": 89,
+      "Aggressive Opposition": 49,
+      "Death Leverage": 45,
+      "Normal": 43,
+      "Defending Chase": 6
+    }
+  },
+  "Shivang Kumar": {
+    "role": "Bowler",
+    "total_balls": 240,
+    "tiers": {
+      "low": 38,
+      "moderate": 149,
+      "high": 53,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 101,
+      "Aggressive Opposition": 84,
+      "Normal": 38,
+      "Defending Chase": 13,
+      "Death Leverage": 4
+    }
+  },
+  "Shoriful Islam": {
+    "role": "Bowler",
+    "total_balls": 823,
+    "tiers": {
+      "low": 154,
+      "moderate": 464,
+      "high": 174,
+      "extreme": 31
+    },
+    "scenarios": {
+      "Adverse Momentum": 373,
+      "Aggressive Opposition": 163,
+      "Normal": 154,
+      "Defending Chase": 88,
+      "Death Leverage": 45
+    }
+  },
+  "Simarjeet Singh": {
+    "role": "Bowler",
+    "total_balls": 256,
+    "tiers": {
+      "low": 48,
+      "moderate": 145,
+      "high": 54,
+      "extreme": 9
+    },
+    "scenarios": {
+      "Adverse Momentum": 111,
+      "Aggressive Opposition": 72,
+      "Normal": 48,
+      "Death Leverage": 19,
+      "Defending Chase": 6
+    }
+  },
+  "Spencer Johnson": {
+    "role": "Bowler",
+    "total_balls": 466,
+    "tiers": {
+      "low": 85,
+      "moderate": 242,
+      "high": 109,
+      "extreme": 30
+    },
+    "scenarios": {
+      "Adverse Momentum": 246,
+      "Aggressive Opposition": 96,
+      "Normal": 85,
+      "Defending Chase": 22,
+      "Death Leverage": 17
+    }
+  },
+  "Sufiyan Muqeem": {
+    "role": "Bowler",
+    "total_balls": 351,
+    "tiers": {
+      "low": 122,
+      "moderate": 188,
+      "high": 36,
+      "extreme": 5
+    },
+    "scenarios": {
+      "Adverse Momentum": 126,
+      "Normal": 123,
+      "Aggressive Opposition": 65,
+      "Defending Chase": 34,
+      "Death Leverage": 3
+    }
+  },
+  "Suyash Sharma": {
+    "role": "Bowler",
+    "total_balls": 822,
+    "tiers": {
+      "low": 153,
+      "moderate": 441,
+      "high": 207,
+      "extreme": 21
+    },
+    "scenarios": {
+      "Adverse Momentum": 410,
+      "Aggressive Opposition": 217,
+      "Normal": 154,
+      "Death Leverage": 26,
+      "Defending Chase": 15
+    }
+  },
+  "Swapnil Singh": {
+    "role": "Bowler",
+    "total_balls": 104,
+    "tiers": {
+      "low": 21,
+      "moderate": 66,
+      "high": 16,
+      "extreme": 1
+    },
+    "scenarios": {
+      "Adverse Momentum": 49,
+      "Aggressive Opposition": 22,
+      "Normal": 21,
+      "Defending Chase": 12
+    }
+  },
+  "T Natarajan": {
+    "role": "Bowler",
+    "total_balls": 1110,
+    "tiers": {
+      "low": 85,
+      "moderate": 488,
+      "high": 414,
+      "extreme": 123
+    },
+    "scenarios": {
+      "Adverse Momentum": 529,
+      "Aggressive Opposition": 357,
+      "Death Leverage": 132,
+      "Normal": 85,
+      "Defending Chase": 7
+    }
+  },
+  "Tabraiz Shamsi": {
+    "role": "Bowler",
+    "total_balls": 321,
+    "tiers": {
+      "low": 47,
+      "moderate": 167,
+      "high": 97,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Adverse Momentum": 148,
+      "Aggressive Opposition": 118,
+      "Normal": 48,
+      "Death Leverage": 6,
+      "Defending Chase": 1
+    }
+  },
+  "Tanveer Sangha": {
+    "role": "Bowler",
+    "total_balls": 171,
+    "tiers": {
+      "low": 33,
+      "moderate": 70,
+      "high": 58,
+      "extreme": 10
+    },
+    "scenarios": {
+      "Adverse Momentum": 87,
+      "Aggressive Opposition": 46,
+      "Normal": 33,
+      "Death Leverage": 5
+    }
+  },
+  "Tanzim Sakib": {
+    "role": "Bowler",
+    "total_balls": 705,
+    "tiers": {
+      "low": 181,
+      "moderate": 339,
+      "high": 162,
+      "extreme": 23
+    },
+    "scenarios": {
+      "Adverse Momentum": 251,
+      "Aggressive Opposition": 185,
+      "Normal": 181,
+      "Death Leverage": 48,
+      "Defending Chase": 40
+    }
+  },
+  "Taskin Ahmed": {
+    "role": "Bowler",
+    "total_balls": 1083,
+    "tiers": {
+      "low": 264,
+      "moderate": 547,
+      "high": 227,
+      "extreme": 45
+    },
+    "scenarios": {
+      "Adverse Momentum": 395,
+      "Normal": 264,
+      "Aggressive Opposition": 251,
+      "Death Leverage": 88,
+      "Defending Chase": 85
+    }
+  },
+  "Tendai Chatara": {
+    "role": "Bowler",
+    "total_balls": 223,
+    "tiers": {
+      "low": 25,
+      "moderate": 140,
+      "high": 43,
+      "extreme": 15
+    },
+    "scenarios": {
+      "Adverse Momentum": 76,
+      "Aggressive Opposition": 71,
+      "Defending Chase": 26,
+      "Normal": 25,
+      "Death Leverage": 25
+    }
+  },
+  "Tim Southee": {
+    "role": "Bowler",
+    "total_balls": 861,
+    "tiers": {
+      "low": 142,
+      "moderate": 540,
+      "high": 140,
+      "extreme": 39
+    },
+    "scenarios": {
+      "Adverse Momentum": 312,
+      "Aggressive Opposition": 201,
+      "Normal": 142,
+      "Defending Chase": 138,
+      "Death Leverage": 68
+    }
+  },
+  "Trent Boult": {
+    "role": "Bowler",
+    "total_balls": 1605,
+    "tiers": {
+      "low": 314,
+      "moderate": 883,
+      "high": 348,
+      "extreme": 60
+    },
+    "scenarios": {
+      "Adverse Momentum": 615,
+      "Aggressive Opposition": 370,
+      "Normal": 319,
+      "Defending Chase": 233,
+      "Death Leverage": 68
+    }
+  },
+  "Tushar Deshpande": {
+    "role": "Bowler",
+    "total_balls": 1121,
+    "tiers": {
+      "low": 126,
+      "moderate": 540,
+      "high": 349,
+      "extreme": 106
+    },
+    "scenarios": {
+      "Adverse Momentum": 486,
+      "Aggressive Opposition": 327,
+      "Normal": 127,
+      "Death Leverage": 104,
+      "Defending Chase": 77
+    }
+  },
+  "Umesh Yadav": {
+    "role": "Bowler",
+    "total_balls": 572,
+    "tiers": {
+      "low": 134,
+      "moderate": 305,
+      "high": 113,
+      "extreme": 20
+    },
+    "scenarios": {
+      "Adverse Momentum": 234,
+      "Aggressive Opposition": 149,
+      "Normal": 135,
+      "Defending Chase": 45,
+      "Death Leverage": 9
+    }
+  },
+  "Umran Malik": {
+    "role": "Bowler",
+    "total_balls": 600,
+    "tiers": {
+      "low": 85,
+      "moderate": 339,
+      "high": 161,
+      "extreme": 15
+    },
+    "scenarios": {
+      "Adverse Momentum": 301,
+      "Aggressive Opposition": 183,
+      "Normal": 85,
+      "Death Leverage": 26,
+      "Defending Chase": 5
+    }
+  },
+  "Vaibhav Arora": {
+    "role": "Bowler",
+    "total_balls": 931,
+    "tiers": {
+      "low": 108,
+      "moderate": 533,
+      "high": 258,
+      "extreme": 32
+    },
+    "scenarios": {
+      "Adverse Momentum": 369,
+      "Aggressive Opposition": 208,
+      "Defending Chase": 165,
+      "Normal": 108,
+      "Death Leverage": 81
+    }
+  },
+  "Varun Chakravarthy": {
+    "role": "Bowler",
+    "total_balls": 2182,
+    "tiers": {
+      "low": 437,
+      "moderate": 1159,
+      "high": 538,
+      "extreme": 48
+    },
+    "scenarios": {
+      "Adverse Momentum": 1013,
+      "Aggressive Opposition": 578,
+      "Normal": 439,
+      "Defending Chase": 84,
+      "Death Leverage": 68
+    }
+  },
+  "Vijayakanth Viyaskanth": {
+    "role": "Bowler",
+    "total_balls": 108,
+    "tiers": {
+      "low": 22,
+      "moderate": 58,
+      "high": 28,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 56,
+      "Aggressive Opposition": 29,
+      "Normal": 22,
+      "Defending Chase": 1
+    }
+  },
+  "Vipraj Nigam": {
+    "role": "Bowler",
+    "total_balls": 301,
+    "tiers": {
+      "low": 36,
+      "moderate": 161,
+      "high": 104,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Adverse Momentum": 131,
+      "Aggressive Opposition": 111,
+      "Normal": 38,
+      "Death Leverage": 11,
+      "Defending Chase": 10
+    }
+  },
+  "Vyshak Kumar": {
+    "role": "Bowler",
+    "total_balls": 550,
+    "tiers": {
+      "low": 25,
+      "moderate": 302,
+      "high": 180,
+      "extreme": 43
+    },
+    "scenarios": {
+      "Adverse Momentum": 256,
+      "Aggressive Opposition": 224,
+      "Death Leverage": 31,
+      "Normal": 25,
+      "Defending Chase": 14
+    }
+  },
+  "Wayne Parnell": {
+    "role": "Bowler",
+    "total_balls": 418,
+    "tiers": {
+      "low": 76,
+      "moderate": 232,
+      "high": 82,
+      "extreme": 28
+    },
+    "scenarios": {
+      "Adverse Momentum": 169,
+      "Aggressive Opposition": 110,
+      "Normal": 76,
+      "Defending Chase": 35,
+      "Death Leverage": 28
+    }
+  },
+  "Wellington Masakadza": {
+    "role": "Bowler",
+    "total_balls": 486,
+    "tiers": {
+      "low": 111,
+      "moderate": 287,
+      "high": 77,
+      "extreme": 11
+    },
+    "scenarios": {
+      "Adverse Momentum": 188,
+      "Aggressive Opposition": 142,
+      "Normal": 111,
+      "Defending Chase": 43,
+      "Death Leverage": 2
+    }
+  },
+  "William ORourke": {
+    "role": "Bowler",
+    "total_balls": 195,
+    "tiers": {
+      "low": 53,
+      "moderate": 96,
+      "high": 38,
+      "extreme": 8
+    },
+    "scenarios": {
+      "Adverse Momentum": 85,
+      "Normal": 53,
+      "Aggressive Opposition": 45,
+      "Death Leverage": 7,
+      "Defending Chase": 5
+    }
+  },
+  "Xavier Bartlett": {
+    "role": "Bowler",
+    "total_balls": 641,
+    "tiers": {
+      "low": 64,
+      "moderate": 349,
+      "high": 207,
+      "extreme": 21
+    },
+    "scenarios": {
+      "Adverse Momentum": 301,
+      "Aggressive Opposition": 177,
+      "Normal": 64,
+      "Defending Chase": 64,
+      "Death Leverage": 35
+    }
+  },
+  "Yash Dayal": {
+    "role": "Bowler",
+    "total_balls": 920,
+    "tiers": {
+      "low": 99,
+      "moderate": 477,
+      "high": 308,
+      "extreme": 36
+    },
+    "scenarios": {
+      "Adverse Momentum": 458,
+      "Aggressive Opposition": 268,
+      "Normal": 100,
+      "Death Leverage": 62,
+      "Defending Chase": 32
+    }
+  },
+  "Yash Punja": {
+    "role": "Bowler",
+    "total_balls": 186,
+    "tiers": {
+      "low": 32,
+      "moderate": 89,
+      "high": 65,
+      "extreme": 0
+    },
+    "scenarios": {
+      "Aggressive Opposition": 76,
+      "Adverse Momentum": 52,
+      "Normal": 32,
+      "Defending Chase": 15,
+      "Death Leverage": 11
+    }
+  },
+  "Yash Thakur": {
+    "role": "Bowler",
+    "total_balls": 565,
+    "tiers": {
+      "low": 44,
+      "moderate": 307,
+      "high": 177,
+      "extreme": 37
+    },
+    "scenarios": {
+      "Adverse Momentum": 270,
+      "Aggressive Opposition": 162,
+      "Death Leverage": 66,
+      "Normal": 44,
+      "Defending Chase": 23
+    }
+  },
+  "Yasim Murtaza": {
+    "role": "Bowler",
+    "total_balls": 195,
+    "tiers": {
+      "low": 39,
+      "moderate": 135,
+      "high": 15,
+      "extreme": 6
+    },
+    "scenarios": {
+      "Adverse Momentum": 64,
+      "Aggressive Opposition": 61,
+      "Normal": 39,
+      "Defending Chase": 25,
+      "Death Leverage": 6
+    }
+  },
+  "Yuzvendra Chahal": {
+    "role": "Bowler",
+    "total_balls": 2218,
+    "tiers": {
+      "low": 328,
+      "moderate": 1256,
+      "high": 578,
+      "extreme": 56
+    },
+    "scenarios": {
+      "Adverse Momentum": 1061,
+      "Aggressive Opposition": 650,
+      "Normal": 330,
+      "Death Leverage": 104,
+      "Defending Chase": 73
+    }
+  },
+  "Zakary Foulkes": {
+    "role": "Bowler",
+    "total_balls": 401,
+    "tiers": {
+      "low": 88,
+      "moderate": 213,
+      "high": 88,
+      "extreme": 12
+    },
+    "scenarios": {
+      "Adverse Momentum": 152,
+      "Aggressive Opposition": 108,
+      "Normal": 89,
+      "Death Leverage": 30,
+      "Defending Chase": 22
+    }
+  }
+}
