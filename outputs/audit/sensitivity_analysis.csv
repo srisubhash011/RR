@@ -1,0 +1,25 @@
+category,min_pressure_balls,weight_scheme,eligible_count,top_1_player,top_3_players,top_10_overlap_with_baseline
+Batting,30,Baseline (Balanced),198,Naman Dhir,"Naman Dhir, Ashutosh Sharma, Jason Holder",Evaluated
+Batting,30,Impact-Heavy,198,Naman Dhir,"Naman Dhir, Tim David, Ashutosh Sharma",Evaluated
+Batting,30,Resilience-Heavy,198,Naman Dhir,"Naman Dhir, Ashutosh Sharma, Babar Azam",Evaluated
+Batting,50,Baseline (Balanced),198,Naman Dhir,"Naman Dhir, Ashutosh Sharma, Jason Holder",Evaluated
+Batting,50,Impact-Heavy,198,Naman Dhir,"Naman Dhir, Tim David, Ashutosh Sharma",Evaluated
+Batting,50,Resilience-Heavy,198,Naman Dhir,"Naman Dhir, Ashutosh Sharma, Babar Azam",Evaluated
+Batting,75,Baseline (Balanced),170,Naman Dhir,"Naman Dhir, Ashutosh Sharma, Jason Holder",Evaluated
+Batting,75,Impact-Heavy,170,Naman Dhir,"Naman Dhir, Tim David, Ashutosh Sharma",Evaluated
+Batting,75,Resilience-Heavy,170,Naman Dhir,"Naman Dhir, Ashutosh Sharma, Babar Azam",Evaluated
+Batting,100,Baseline (Balanced),139,Naman Dhir,"Naman Dhir, Ashutosh Sharma, Jason Holder",Evaluated
+Batting,100,Impact-Heavy,139,Naman Dhir,"Naman Dhir, Tim David, Ashutosh Sharma",Evaluated
+Batting,100,Resilience-Heavy,139,Naman Dhir,"Naman Dhir, Ashutosh Sharma, Babar Azam",Evaluated
+Bowling,30,Baseline (Balanced),267,Matheesha Pathirana,"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",Evaluated
+Bowling,30,Impact-Heavy,267,Matheesha Pathirana,"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",Evaluated
+Bowling,30,Resilience-Heavy,267,Lungi Ngidi,"Lungi Ngidi, Liam Dawson, Matheesha Pathirana",Evaluated
+Bowling,50,Baseline (Balanced),267,Matheesha Pathirana,"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",Evaluated
+Bowling,50,Impact-Heavy,267,Matheesha Pathirana,"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",Evaluated
+Bowling,50,Resilience-Heavy,267,Lungi Ngidi,"Lungi Ngidi, Liam Dawson, Matheesha Pathirana",Evaluated
+Bowling,75,Baseline (Balanced),260,Matheesha Pathirana,"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",Evaluated
+Bowling,75,Impact-Heavy,260,Matheesha Pathirana,"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",Evaluated
+Bowling,75,Resilience-Heavy,260,Lungi Ngidi,"Lungi Ngidi, Liam Dawson, Matheesha Pathirana",Evaluated
+Bowling,100,Baseline (Balanced),245,Matheesha Pathirana,"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",Evaluated
+Bowling,100,Impact-Heavy,245,Matheesha Pathirana,"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",Evaluated
+Bowling,100,Resilience-Heavy,245,Lungi Ngidi,"Lungi Ngidi, Liam Dawson, Matheesha Pathirana",Evaluated

@@ -1,0 +1,36 @@
+{
+  "total_matches": 837,
+  "total_deliveries": 193988,
+  "eligible_batters": 198,
+  "eligible_bowlers": 267,
+  "pressure_batting_balls": 61378,
+  "pressure_bowling_balls": 162531,
+  "ipl_deliveries": 87673,
+  "t20i_deliveries": 106315,
+  "batting_tiers": {
+    "low": 132610,
+    "moderate": 38219,
+    "high": 16510,
+    "extreme": 6649
+  },
+  "bowling_tiers": {
+    "moderate": 104355,
+    "high": 50857,
+    "low": 31457,
+    "extreme": 7319
+  },
+  "dominant_batting_scenarios": {
+    "Normal": 132709,
+    "Collapse": 36609,
+    "Run Chase": 17906,
+    "Momentum Deficit": 3439,
+    "Survival": 3325
+  },
+  "dominant_bowling_scenarios": {
+    "Adverse Momentum": 87856,
+    "Aggressive Opposition": 50337,
+    "Normal": 31631,
+    "Defending Chase": 12886,
+    "Death Leverage": 11278
+  }
+}

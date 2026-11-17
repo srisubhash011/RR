@@ -1,0 +1,7 @@
+dataset,record_count,column_count,duplicate_rows,columns_with_nulls,total_null_cells,status
+competitions.csv,141,4,0,0,0,PASS
+teams.csv,353,3,0,0,0,PASS
+matches.csv,883,22,0,8,2736,PASS
+playing_eleven.csv,28381,9,0,3,26012,PASS
+competition_team_player_mapping.csv,6413,6,0,0,0,PASS
+ball_by_ball.csv,200999,33,0,7,766466,PASS

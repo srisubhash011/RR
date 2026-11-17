@@ -1,0 +1,218 @@
+[
+  {
+    "category":"Batting",
+    "min_pressure_balls":30,
+    "weight_scheme":"Baseline (Balanced)",
+    "eligible_count":198,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Ashutosh Sharma, Jason Holder",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":30,
+    "weight_scheme":"Impact-Heavy",
+    "eligible_count":198,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Tim David, Ashutosh Sharma",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":30,
+    "weight_scheme":"Resilience-Heavy",
+    "eligible_count":198,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Ashutosh Sharma, Babar Azam",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":50,
+    "weight_scheme":"Baseline (Balanced)",
+    "eligible_count":198,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Ashutosh Sharma, Jason Holder",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":50,
+    "weight_scheme":"Impact-Heavy",
+    "eligible_count":198,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Tim David, Ashutosh Sharma",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":50,
+    "weight_scheme":"Resilience-Heavy",
+    "eligible_count":198,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Ashutosh Sharma, Babar Azam",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":75,
+    "weight_scheme":"Baseline (Balanced)",
+    "eligible_count":170,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Ashutosh Sharma, Jason Holder",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":75,
+    "weight_scheme":"Impact-Heavy",
+    "eligible_count":170,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Tim David, Ashutosh Sharma",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":75,
+    "weight_scheme":"Resilience-Heavy",
+    "eligible_count":170,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Ashutosh Sharma, Babar Azam",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":100,
+    "weight_scheme":"Baseline (Balanced)",
+    "eligible_count":139,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Ashutosh Sharma, Jason Holder",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":100,
+    "weight_scheme":"Impact-Heavy",
+    "eligible_count":139,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Tim David, Ashutosh Sharma",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Batting",
+    "min_pressure_balls":100,
+    "weight_scheme":"Resilience-Heavy",
+    "eligible_count":139,
+    "top_1_player":"Naman Dhir",
+    "top_3_players":"Naman Dhir, Ashutosh Sharma, Babar Azam",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":30,
+    "weight_scheme":"Baseline (Balanced)",
+    "eligible_count":267,
+    "top_1_player":"Matheesha Pathirana",
+    "top_3_players":"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":30,
+    "weight_scheme":"Impact-Heavy",
+    "eligible_count":267,
+    "top_1_player":"Matheesha Pathirana",
+    "top_3_players":"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":30,
+    "weight_scheme":"Resilience-Heavy",
+    "eligible_count":267,
+    "top_1_player":"Lungi Ngidi",
+    "top_3_players":"Lungi Ngidi, Liam Dawson, Matheesha Pathirana",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":50,
+    "weight_scheme":"Baseline (Balanced)",
+    "eligible_count":267,
+    "top_1_player":"Matheesha Pathirana",
+    "top_3_players":"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":50,
+    "weight_scheme":"Impact-Heavy",
+    "eligible_count":267,
+    "top_1_player":"Matheesha Pathirana",
+    "top_3_players":"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":50,
+    "weight_scheme":"Resilience-Heavy",
+    "eligible_count":267,
+    "top_1_player":"Lungi Ngidi",
+    "top_3_players":"Lungi Ngidi, Liam Dawson, Matheesha Pathirana",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":75,
+    "weight_scheme":"Baseline (Balanced)",
+    "eligible_count":260,
+    "top_1_player":"Matheesha Pathirana",
+    "top_3_players":"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":75,
+    "weight_scheme":"Impact-Heavy",
+    "eligible_count":260,
+    "top_1_player":"Matheesha Pathirana",
+    "top_3_players":"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":75,
+    "weight_scheme":"Resilience-Heavy",
+    "eligible_count":260,
+    "top_1_player":"Lungi Ngidi",
+    "top_3_players":"Lungi Ngidi, Liam Dawson, Matheesha Pathirana",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":100,
+    "weight_scheme":"Baseline (Balanced)",
+    "eligible_count":245,
+    "top_1_player":"Matheesha Pathirana",
+    "top_3_players":"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":100,
+    "weight_scheme":"Impact-Heavy",
+    "eligible_count":245,
+    "top_1_player":"Matheesha Pathirana",
+    "top_3_players":"Matheesha Pathirana, Mark Wood, Jasprit Bumrah",
+    "top_10_overlap_with_baseline":"Evaluated"
+  },
+  {
+    "category":"Bowling",
+    "min_pressure_balls":100,
+    "weight_scheme":"Resilience-Heavy",
+    "eligible_count":245,
+    "top_1_player":"Lungi Ngidi",
+    "top_3_players":"Lungi Ngidi, Liam Dawson, Matheesha Pathirana",
+    "top_10_overlap_with_baseline":"Evaluated"
+  }
+]

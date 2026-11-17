@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+venv*/
+env/
+env*/
+ENV/
+env.bak/
+venv.bak/
+
+# Node / Web artifacts
+node_modules/
+web/node_modules/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Web build output (Vercel builds on deploy)
+web/dist/
+.vercel
+
+# Operating System & IDE files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+
+# Intermediate large data caches (optional: raw CSVs can be kept or tracked depending on Git LFS)
+# Uncomment the line below if you prefer not pushing the 41MB raw ball_by_ball CSV directly:
+# *.csv
+# !outputs/rankings/*.csv
+# !outputs/audit/*.csv
+
+# Streamlit temporary state
+.streamlit/

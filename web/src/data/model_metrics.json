@@ -1,0 +1,38 @@
+[
+  {
+    "model":"Batting Expected Runs",
+    "metric":"RMSE",
+    "value":1.7076136443,
+    "target_mean":1.3458667546
+  },
+  {
+    "model":"Batting Expected Runs",
+    "metric":"MAE",
+    "value":1.2852407464,
+    "target_mean":1.3458667546
+  },
+  {
+    "model":"Batting Dismissal Probability",
+    "metric":"ROC-AUC",
+    "value":0.5984359627,
+    "target_mean":0.0526630513
+  },
+  {
+    "model":"Batting Boundary Probability",
+    "metric":"ROC-AUC",
+    "value":0.6172466616,
+    "target_mean":0.1806812793
+  },
+  {
+    "model":"Bowling Expected Runs Conceded",
+    "metric":"RMSE",
+    "value":1.6931644958,
+    "target_mean":1.3959213972
+  },
+  {
+    "model":"Bowling Wicket Probability",
+    "metric":"ROC-AUC",
+    "value":0.5927980077,
+    "target_mean":0.0510289296
+  }
+]

@@ -1,0 +1,21 @@
+rank,player_id,player_name,final_rating,ci_lower,ci_upper,pressure_balls,pressure_matches,role
+1,37052,Naman Dhir,92.38,90.54,94.09,260,37,Batter
+2,8101,Ashutosh Sharma,81.46,78.63,84.76,284,25,Batter
+3,2633,Jason Holder,78.87,77.68,80.29,365,55,Batter
+4,2485,Babar Azam,78.25,76.17,80.39,109,16,Batter
+5,6396,Tim David,77.22,76.15,78.37,661,80,Batter
+6,8182,Donovan Ferreira,75.73,73.69,77.61,234,26,Batter
+7,4722,Rashid Khan,75.55,74.32,77.0,486,70,Batter
+8,1318,Andre Russell,74.71,72.98,76.94,496,54,Batter
+9,5839,Yasir Ali Chowdhury,74.57,71.41,78.27,79,7,Batter
+10,2334,Dwaine Pretorius,74.02,72.06,75.81,53,8,Batter
+1,8661,Matheesha Pathirana,84.43,80.91,87.66,980,54,Bowler
+2,2985,Mark Wood,81.41,74.58,89.31,240,13,Bowler
+3,2933,Jasprit Bumrah,78.57,74.99,81.87,1475,75,Bowler
+4,722,Liam Dawson,77.83,73.86,81.94,321,21,Bowler
+5,4641,Lungi Ngidi,76.93,73.31,80.99,713,39,Bowler
+6,4812,Harry Tector,76.88,73.57,80.41,173,16,Bowler
+7,3772,Logan van Beek,76.14,63.24,88.38,109,6,Bowler
+8,6256,Varun Chakravarthy,75.96,73.67,78.54,1696,95,Bowler
+9,28756,Haider Ali,75.88,70.04,81.93,224,12,Bowler
+10,7699,Abbas Afridi,75.7,71.85,79.63,362,22,Bowler

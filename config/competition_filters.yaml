@@ -1,0 +1,26 @@
+# Competition filtering configuration for PRESSUREIQ
+
+scope:
+  min_season: 2022
+  included_formats:
+    - T20I
+  
+  # Specific IPL competition IDs (2022 - 2026)
+  ipl_competition_ids:
+    - 1358  # IPL 2022
+    - 1715  # IPL 2023
+    - 2193  # IPL 2024
+    - 2725  # IPL 2025
+    - 3298  # IPL 2026
+
+  # Explicitly excluded domestic / emerging competitions
+  excluded_competition_ids:
+    - 2670  # Mens T20 Emerging Teams Asia Cup 2024
+    - 3289  # Asia Cup Rising Stars 2025
+
+  # Innings rules
+  valid_innings:
+    - 1
+    - 2
+  exclude_super_overs: true
+

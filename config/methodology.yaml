@@ -1,0 +1,51 @@
+# Methodology Configuration for PRESSUREIQ
+
+pressure_thresholds:
+  low: [0, 35]
+  moderate: [35, 60]
+  high: [60, 80]
+  extreme: [80, 100]
+
+eligibility:
+  batters:
+    min_pressure_balls: 50
+    min_pressure_matches: 5
+    sensitivity_thresholds_balls: [30, 50, 75, 100]
+  bowlers:
+    min_pressure_balls: 60
+    min_pressure_matches: 5
+    sensitivity_thresholds_balls: [36, 60, 90, 120]
+
+weights:
+  batting:
+    impact_weight: 0.35
+    resilience_weight: 0.25
+    consistency_weight: 0.15
+    sample_confidence_weight: 0.15
+    collapse_resistance_weight: 0.10
+  bowling:
+    impact_weight: 0.35
+    resilience_weight: 0.25
+    consistency_weight: 0.15
+    sample_confidence_weight: 0.15
+    aggression_resistance_weight: 0.10
+
+pressure_weights:
+  batting:
+    collapse: 0.30
+    chase_steepness: 0.30
+    resource_depletion: 0.20
+    momentum_deficit: 0.20
+  bowling:
+    opposition_aggression: 0.35
+    defending_closeness: 0.30
+    partnership_dominance: 0.20
+    death_overs_leverage: 0.15
+
+bayesian_shrinkage:
+  prior_weight: 25.0  # Equivalent pseudo-deliveries for empirical Bayes shrinkage
+
+bootstrap:
+  n_iterations: 500
+  confidence_level: 0.90
+
